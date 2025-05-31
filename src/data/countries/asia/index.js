@@ -39,3 +39,8 @@ export { kuwait } from './kuwait';
 export { kyrgyzstan } from './kyrgyzstan';
 export { maldives } from './maldives';
 export { oman } from './oman';
+export { palestine } from './palestine';
+export { syria } from './syria';
+export { tajikistan } from './tajikistan';
+export { turkmenistan } from './turkmenistan';
+export { yemen } from './yemen';

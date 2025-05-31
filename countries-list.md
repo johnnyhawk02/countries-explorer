@@ -16,44 +16,44 @@ This document provides a comprehensive list of all 196 countries in the world, 4
 10. Chad 🇹🇩 ✓
 11. Comoros 🇰🇲 ✓
 12. Congo, Democratic Republic of the 🇨🇩 ✓
-13. Congo, Republic of the 🇨🇬
+13. Congo, Republic of the 🇨🇬 ✓
 14. Djibouti 🇩🇯 ✓
 15. Egypt 🇪🇬 ✓
 16. Equatorial Guinea 🇬🇶 ✓
 17. Eritrea 🇪🇷 ✓
-18. Eswatini (formerly Swaziland) 🇸🇿
+18. Eswatini (formerly Swaziland) 🇸🇿 ✓
 19. Ethiopia 🇪🇹 ✓
 20. Gabon 🇬🇦 ✓
 21. Gambia 🇬🇲 ✓
 22. Ghana 🇬🇭 ✓
 23. Guinea 🇬🇳 ✓
-24. Guinea-Bissau 🇬🇼
+24. Guinea-Bissau 🇬🇼 ✓
 25. Ivory Coast 🇨🇮 ✓
 26. Kenya 🇰🇪 ✓
-27. Lesotho 🇱🇸
-28. Liberia 🇱🇷
+27. Lesotho 🇱🇸 ✓
+28. Liberia 🇱🇷 ✓
 29. Libya 🇱🇾 ✓
 30. Madagascar 🇲🇬 ✓
-31. Malawi 🇲🇼
+31. Malawi 🇲🇼 ✓
 32. Mali 🇲🇱 ✓
-33. Mauritania 🇲🇷
-34. Mauritius 🇲🇺
+33. Mauritania 🇲🇷 ✓
+34. Mauritius 🇲🇺 ✓
 35. Morocco 🇲🇦 ✓
 36. Mozambique 🇲🇿 ✓
 37. Namibia 🇳🇦 ✓
 38. Niger 🇳🇪 ✓
 39. Nigeria 🇳🇬 ✓
 40. Rwanda 🇷🇼 ✓
-41. Sao Tome and Principe 🇸🇹
+41. Sao Tome and Principe 🇸🇹 ✓
 42. Senegal 🇸🇳 ✓
-43. Seychelles 🇸🇨
-44. Sierra Leone 🇸🇱
-45. Somalia 🇸🇴
+43. Seychelles 🇸🇨 ✓
+44. Sierra Leone 🇸🇱 ✓
+45. Somalia 🇸🇴 ✓
 46. South Africa 🇿🇦 ✓
 47. South Sudan 🇸🇸 ✓
 48. Sudan 🇸🇩 ✓
 49. Tanzania 🇹🇿 ✓
-50. Togo 🇹🇬
+50. Togo 🇹🇬 ✓
 51. Tunisia 🇹🇳 ✓
 52. Uganda 🇺🇬 ✓
 53. Zambia 🇿🇲 ✓
@@ -90,31 +90,31 @@ This document provides a comprehensive list of all 196 countries in the world, 4
 27. North Korea 🇰🇵 ✓
 28. Oman 🇴🇲 ✓
 29. Pakistan 🇵🇰 ✓
-30. Palestine 🇵🇸
+30. Palestine 🇵🇸 ✓
 31. Philippines 🇵🇭 ✓
 32. Qatar 🇶🇦 ✓
 33. Saudi Arabia 🇸🇦 ✓
 34. Singapore 🇸🇬 ✓
 35. South Korea 🇰🇷 ✓
 36. Sri Lanka 🇱🇰 ✓
-37. Syria 🇸🇾
+37. Syria 🇸🇾 ✓
 38. Taiwan 🇹🇼 ✓
-39. Tajikistan 🇹🇯
+39. Tajikistan 🇹🇯 ✓
 40. Thailand 🇹🇭 ✓
 41. Turkey 🇹🇷 ✓
-42. Turkmenistan 🇹🇲
+42. Turkmenistan 🇹🇲 ✓
 43. United Arab Emirates 🇦🇪 ✓
 44. Uzbekistan 🇺🇿 ✓
 45. Vietnam 🇻🇳 ✓
-46. Yemen 🇾🇪
+46. Yemen 🇾🇪 ✓
 
 ## Europe (44 countries)
 
 1. Albania 🇦🇱 ✓
 2. Andorra 🇦🇩 ✓
-3. Armenia 🇦🇲
+3. Armenia 🇦🇲 ✓
 4. Austria 🇦🇹 ✓
-5. Azerbaijan 🇦🇿
+5. Azerbaijan 🇦🇿 ✓
 6. Belarus 🇧🇾 ✓
 7. Belgium 🇧🇪 ✓
 8. Bosnia and Herzegovina 🇧🇦 ✓
@@ -125,7 +125,7 @@ This document provides a comprehensive list of all 196 countries in the world, 4
 13. Estonia 🇪🇪 ✓
 14. Finland 🇫🇮 ✓
 15. France 🇫🇷 ✓
-16. Georgia 🇬🇪
+16. Georgia 🇬🇪 ✓
 17. Germany 🇩🇪 ✓
 18. Greece 🇬🇷 ✓
 19. Hungary 🇭🇺 ✓
@@ -147,7 +147,7 @@ This document provides a comprehensive list of all 196 countries in the world, 4
 35. Portugal 🇵🇹 ✓
 36. Romania 🇷🇴 ✓
 37. Russia 🇷🇺 ✓
-38. San Marino 🇸🇲
+38. San Marino 🇸🇲 ✓
 39. Serbia 🇷🇸 ✓
 40. Slovakia 🇸🇰 ✓
 41. Slovenia 🇸🇮 ✓
@@ -155,8 +155,8 @@ This document provides a comprehensive list of all 196 countries in the world, 4
 43. Sweden 🇸🇪 ✓
 44. Switzerland 🇨🇭 ✓
 45. Ukraine 🇺🇦 ✓
-46. United Kingdom 🇬🇧
-47. Vatican City 🇻🇦
+46. United Kingdom 🇬🇧 ✓
+47. Vatican City 🇻🇦 ✓
 
 ## North America (23 countries)
 
@@ -300,7 +300,7 @@ Currently, we have implemented the following countries in our application:
 - Solomon Islands 🇸🇧 ✓
 - Vanuatu 🇻🇺 ✓
 
-## Total Countries Implemented: 168 out of 196
+## Total Countries Implemented: 189 out of 196
 
 ## Template for Adding a New Country
 

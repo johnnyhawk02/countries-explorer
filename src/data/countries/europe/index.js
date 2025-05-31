@@ -40,3 +40,8 @@ export { luxembourg } from './luxembourg';
 export { malta } from './malta';
 export { monaco } from './monaco';
 export { montenegro } from './montenegro';
+export { armenia } from './armenia';
+export { azerbaijan } from './azerbaijan';
+export { georgia } from './georgia';
+export { sanMarino } from './san-marino';
+export { vaticanCity } from './vatican-city';

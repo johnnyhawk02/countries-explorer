@@ -89,6 +89,11 @@ export const countries = [
   europe.malta,
   europe.monaco,
   europe.montenegro,
+  europe.armenia,
+  europe.azerbaijan,
+  europe.georgia,
+  europe.sanMarino,
+  europe.vaticanCity,
   
   // Asia
   asia.china,
@@ -132,6 +137,11 @@ export const countries = [
   asia.kyrgyzstan,
   asia.maldives,
   asia.oman,
+  asia.palestine,
+  asia.syria,
+  asia.tajikistan,
+  asia.turkmenistan,
+  asia.yemen,
   
   // Africa
   africa.nigeria,
@@ -175,6 +185,19 @@ export const countries = [
   africa.eritrea,
   africa.gabon,
   africa.gambia,
+  africa.congoRepublic,
+  africa.eswatini,
+  africa.guineaBissau,
+  africa.lesotho,
+  africa.liberia,
+  africa.malawi,
+  africa.mauritania,
+  africa.mauritius,
+  africa.saoTomeAndPrincipe,
+  africa.seychelles,
+  africa.sierraLeone,
+  africa.somalia,
+  africa.togo,
   
   // Oceania
   oceania.australia,

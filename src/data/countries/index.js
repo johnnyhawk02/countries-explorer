@@ -30,6 +30,8 @@ export const countries = [
   northAmerica.dominica,
   northAmerica.saintKittsAndNevis,
   northAmerica.saintVincentAndTheGrenadines,
+  northAmerica.saintLucia,
+  northAmerica.grenada,
   
   // South America
   southAmerica.brazil,

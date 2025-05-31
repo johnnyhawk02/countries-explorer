@@ -300,7 +300,7 @@ Currently, we have implemented the following countries in our application:
 - Solomon Islands 🇸🇧 ✓
 - Vanuatu 🇻🇺 ✓
 
-## Total Countries Implemented: 196 out of 196
+## Total Countries Implemented: 195 out of 196
 
 ## Template for Adding a New Country
 

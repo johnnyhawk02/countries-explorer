@@ -19,3 +19,5 @@ export { antiguaAndBarbuda } from './antigua-and-barbuda';
 export { dominica } from './dominica';
 export { saintKittsAndNevis } from './saint-kitts-and-nevis';
 export { saintVincentAndTheGrenadines } from './saint-vincent-and-the-grenadines';
+export { saintLucia } from './saint-lucia';
+export { grenada } from './grenada';

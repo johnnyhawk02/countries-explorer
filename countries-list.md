@@ -170,51 +170,51 @@ This document provides a comprehensive list of all 196 countries in the world, 4
 8. Dominica 🇩🇲 ✓
 9. Dominican Republic 🇩🇴 ✓
 10. El Salvador 🇸🇻 ✓
-11. Grenada 🇬🇩
-12. Guatemala 🇬🇹
+11. Grenada 🇬🇩 ✓
+12. Guatemala 🇬🇹 ✓
 13. Haiti 🇭🇹 ✓
-14. Honduras 🇭🇳
-15. Jamaica 🇯🇲
-16. Mexico 🇲🇽
+14. Honduras 🇭🇳 ✓
+15. Jamaica 🇯🇲 ✓
+16. Mexico 🇲🇽 ✓
 17. Nicaragua 🇳🇮 ✓
-18. Panama 🇵🇦
+18. Panama 🇵🇦 ✓
 19. Saint Kitts and Nevis 🇰🇳 ✓
-20. Saint Lucia 🇱🇨
+20. Saint Lucia 🇱🇨 ✓
 21. Saint Vincent and the Grenadines 🇻🇨 ✓
 22. Trinidad and Tobago 🇹🇹 ✓
-23. United States 🇺🇸
+23. United States 🇺🇸 ✓
 
 ## South America (12 countries)
 
-1. Argentina 🇦🇷
-2. Bolivia 🇧🇴
-3. Brazil 🇧🇷
-4. Chile 🇨🇱
-5. Colombia 🇨🇴
-6. Ecuador 🇪🇨
+1. Argentina 🇦🇷 ✓
+2. Bolivia 🇧🇴 ✓
+3. Brazil 🇧🇷 ✓
+4. Chile 🇨🇱 ✓
+5. Colombia 🇨🇴 ✓
+6. Ecuador 🇪🇨 ✓
 7. Guyana 🇬🇾 ✓
-8. Paraguay 🇵🇾
-9. Peru 🇵🇪
+8. Paraguay 🇵🇾 ✓
+9. Peru 🇵🇪 ✓
 10. Suriname 🇸🇷 ✓
-11. Uruguay 🇺🇾
-12. Venezuela 🇻🇪
+11. Uruguay 🇺🇾 ✓
+12. Venezuela 🇻🇪 ✓
 
 ## Oceania (14 countries)
 
-1. Australia 🇦🇺
-2. Fiji 🇫🇯
-3. Kiribati 🇰🇮
+1. Australia 🇦🇺 ✓
+2. Fiji 🇫🇯 ✓
+3. Kiribati 🇰🇮 ✓
 4. Marshall Islands 🇲🇭 ✓
 5. Micronesia 🇫🇲 ✓
 6. Nauru 🇳🇷 ✓
-7. New Zealand 🇳🇿
+7. New Zealand 🇳🇿 ✓
 8. Palau 🇵🇼 ✓
-9. Papua New Guinea 🇵🇬
-10. Samoa 🇼🇸
-11. Solomon Islands 🇸🇧
+9. Papua New Guinea 🇵🇬 ✓
+10. Samoa 🇼🇸 ✓
+11. Solomon Islands 🇸🇧 ✓
 12. Tonga 🇹🇴 ✓
 13. Tuvalu 🇹🇻 ✓
-14. Vanuatu 🇻🇺
+14. Vanuatu 🇻🇺 ✓
 
 ## Status in Our Application
 
@@ -300,7 +300,7 @@ Currently, we have implemented the following countries in our application:
 - Solomon Islands 🇸🇧 ✓
 - Vanuatu 🇻🇺 ✓
 
-## Total Countries Implemented: 189 out of 196
+## Total Countries Implemented: 196 out of 196
 
 ## Template for Adding a New Country
 

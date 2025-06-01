@@ -61,18 +61,24 @@ function App() {
         </div>
       </header>
 
-      {/* Search, Filter, and Controls Section */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-        <div className="flex flex-col lg:flex-row gap-4 mb-8">
-          <div className="flex flex-col md:flex-row gap-4 flex-1">
-            <SearchBar onSearch={handleSearch} />
-            <FilterBar onFilter={handleFilterByRegion} selectedRegion={selectedRegion} />
-          </div>
-          <div className="flex items-center gap-3">
-            <SortDropdown currentSort={currentSort} onSortChange={handleSortChange} />
-            <ViewToggle currentView={currentView} onViewChange={setCurrentView} />
+      {/* Search, Filter, and Controls Section - Sticky */}
+      <div className="sticky top-0 z-40 bg-white border-b shadow-sm">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+          <div className="flex flex-col lg:flex-row gap-4">
+            <div className="flex flex-col md:flex-row gap-4 flex-1">
+              <SearchBar onSearch={handleSearch} />
+              <FilterBar onFilter={handleFilterByRegion} selectedRegion={selectedRegion} />
+            </div>
+            <div className="flex items-center gap-3">
+              <SortDropdown currentSort={currentSort} onSortChange={handleSortChange} />
+              <ViewToggle currentView={currentView} onViewChange={setCurrentView} />
+            </div>
           </div>
         </div>
+      </div>
+
+      {/* Main Content Container */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
 
         {/* Results Count */}
         <div className="mb-6">

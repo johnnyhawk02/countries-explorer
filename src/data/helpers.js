@@ -27,17 +27,29 @@ export const getPopulationDensity = (population, area) => {
 };
 
 // Sort countries by various criteria
-export const sortCountries = (countries, sortBy = 'name') => {
+export const sortCountries = (countries, sortBy = 'name-asc') => {
   return [...countries].sort((a, b) => {
     switch (sortBy) {
-      case 'name':
+      case 'name-asc':
         return a.name.localeCompare(b.name);
-      case 'population':
+      case 'name-desc':
+        return b.name.localeCompare(a.name);
+      case 'population-desc':
         return b.population - a.population;
-      case 'area':
+      case 'population-asc':
+        return a.population - b.population;
+      case 'area-desc':
         return b.area - a.area;
-      case 'gdp':
+      case 'area-asc':
+        return a.area - b.area;
+      case 'gdp-desc':
         return b.gdp - a.gdp;
+      case 'gdp-asc':
+        return a.gdp - b.gdp;
+      case 'region':
+        // Sort by region first, then by name within region
+        const regionCompare = a.region.localeCompare(b.region);
+        return regionCompare !== 0 ? regionCompare : a.name.localeCompare(b.name);
       default:
         return a.name.localeCompare(b.name);
     }
@@ -51,12 +63,12 @@ export const getCountriesByRegion = (countries, region) => {
 
 // Get largest countries by area
 export const getLargestCountries = (countries, limit = 10) => {
-  return sortCountries(countries, 'area').slice(0, limit);
+  return sortCountries(countries, 'area-desc').slice(0, limit);
 };
 
 // Get most populous countries
 export const getMostPopulousCountries = (countries, limit = 10) => {
-  return sortCountries(countries, 'population').slice(0, limit);
+  return sortCountries(countries, 'population-desc').slice(0, limit);
 };
 
 // Get countries by language

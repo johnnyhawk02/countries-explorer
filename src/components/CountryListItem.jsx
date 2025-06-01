@@ -1,9 +1,12 @@
 import React from 'react';
 import { formatPopulation, formatGDP } from '../data/helpers';
 
-const CountryListItem = ({ country }) => {
+const CountryListItem = ({ country, onClick }) => {
   return (
-    <div className="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow duration-200">
+    <div 
+      className="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow duration-200 cursor-pointer hover:bg-gray-50"
+      onClick={() => onClick(country)}
+    >
       <div className="flex items-center justify-between">
         <div className="flex items-center space-x-4 flex-1">
           {/* Flag and Basic Info */}

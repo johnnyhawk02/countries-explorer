@@ -3,6 +3,7 @@ import { countries, searchCountries, getRegions } from './data/countries/index'
 import { formatPopulation, formatArea, formatGDP, getCountriesByRegion, sortCountries } from './data/helpers'
 import CountryCard from './components/CountryCard'
 import CountryListItem from './components/CountryListItem'
+import CountryDetailModal from './components/CountryDetailModal'
 import SearchBar from './components/SearchBar'
 import FilterBar from './components/FilterBar'
 import ViewToggle from './components/ViewToggle'
@@ -14,6 +15,8 @@ function App() {
   const [selectedRegion, setSelectedRegion] = useState('all')
   const [currentView, setCurrentView] = useState('grid')
   const [currentSort, setCurrentSort] = useState('name-asc')
+  const [selectedCountry, setSelectedCountry] = useState(null)
+  const [isModalOpen, setIsModalOpen] = useState(false)
 
   // Helper function to apply current filters and sorting
   const updateDisplayedCountries = (searchTerm, selectedRegion, sortBy) => {
@@ -49,6 +52,16 @@ function App() {
   const handleSortChange = (sortBy) => {
     setCurrentSort(sortBy)
     updateDisplayedCountries(searchTerm, selectedRegion, sortBy)
+  }
+
+  const handleCountryClick = (country) => {
+    setSelectedCountry(country)
+    setIsModalOpen(true)
+  }
+
+  const handleCloseModal = () => {
+    setIsModalOpen(false)
+    setSelectedCountry(null)
   }
 
   return (
@@ -97,7 +110,7 @@ function App() {
         ) : (
           <div className="space-y-3">
             {displayedCountries.map((country) => (
-              <CountryListItem key={country.id} country={country} />
+              <CountryListItem key={country.id} country={country} onClick={handleCountryClick} />
             ))}
           </div>
         )}
@@ -120,6 +133,13 @@ function App() {
           </p>
         </div>
       </footer>
+
+      {/* Country Detail Modal */}
+      <CountryDetailModal 
+        country={selectedCountry}
+        isOpen={isModalOpen}
+        onClose={handleCloseModal}
+      />
     </div>
   )
 }

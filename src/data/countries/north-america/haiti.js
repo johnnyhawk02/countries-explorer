@@ -10,6 +10,7 @@ export const haiti = {
   flag: '🇭🇹',
   government: 'Semi-Presidential Republic',
   timezone: 'UTC-5',
-  gdp: 8498000000,
-  description: 'Haiti occupies the western third of the island of Hispaniola and was the first black-led republic in the world. Known for its rich cultural heritage, vibrant art scene, and historical significance as the first successful slave revolt.'
+  gdp: 19800000000,
+  nationalDish: 'Griot',
+  description: 'Shares the island of Hispaniola with the Dominican Republic, known for its Creole culture, art, and beautiful beaches.'
 };

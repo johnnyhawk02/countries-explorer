@@ -10,6 +10,7 @@ export const greece = {
   flag: '🇬🇷',
   government: 'Republic',
   timezone: 'UTC+2',
-  gdp: 222000000000,
-  description: 'Known as the cradle of Western civilization, famous for its ancient ruins, thousands of islands, Mediterranean beaches, and rich history.'
+  gdp: 452000000000,
+  nationalDish: 'Moussaka',
+  description: 'The cradle of Western civilization and democracy, known for its ancient history, islands, and Mediterranean culture.'
 };

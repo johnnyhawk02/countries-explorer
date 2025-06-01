@@ -10,6 +10,7 @@ export const sweden = {
   flag: '🇸🇪',
   government: 'Constitutional Monarchy',
   timezone: 'UTC+1',
-  gdp: 530000000000,
-  description: 'A Scandinavian nation known for its progressive policies, pristine nature, thousands of coastal islands, and IKEA furniture.'
+  gdp: 541000000000,
+  nationalDish: 'Meatballs',
+  description: 'Known for its welfare system, innovation, ABBA, and beautiful archipelago.'
 };

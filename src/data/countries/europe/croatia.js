@@ -10,6 +10,7 @@ export const croatia = {
   flag: '🇭🇷',
   government: 'Parliamentary Republic',
   timezone: 'UTC+1',
-  gdp: 68000000000,
-  description: 'Croatia is a country in Southeast Europe known for its stunning Adriatic coastline, historic cities, and beautiful national parks. It features over 1,000 islands and is famous for its medieval architecture and crystal-clear waters.'
+  gdp: 69000000000,
+  nationalDish: 'Ćevapi',
+  description: 'Known for its medieval history, beautiful Adriatic coastline, and cultural heritage.'
 };

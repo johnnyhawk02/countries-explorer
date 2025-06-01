@@ -10,6 +10,7 @@ export const afghanistan = {
   flag: '🇦🇫',
   government: 'Islamic emirate',
   timezone: 'UTC+4:30 (AFT)',
-  gdp: 14790000000,
-  description: 'Afghanistan is a landlocked country at the crossroads of Central and South Asia. It has been a strategic location along the Silk Road and has a rich cultural heritage. Afghanistan has faced various challenges but remains important geopolitically and culturally.'
+  gdp: 20000000000,
+  nationalDish: 'Kabuli Pulao',
+  description: 'A landlocked country with a rich history at the crossroads of Central and South Asia.'
 };

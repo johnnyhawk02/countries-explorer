@@ -10,6 +10,7 @@ export const brazil = {
   flag: '🇧🇷',
   government: 'Federal Republic',
   timezone: 'UTC-2 to UTC-5',
-  gdp: 1608000000000,
-  description: 'The largest country in South America, famous for the Amazon rainforest, vibrant culture, and football.'
+  gdp: 1449000000000,
+  nationalDish: 'Feijoada',
+  description: 'The largest country in South America, known for its Amazon rainforest, carnival celebrations, and diverse culture.'
 };

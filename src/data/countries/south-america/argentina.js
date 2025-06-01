@@ -10,6 +10,7 @@ export const argentina = {
   flag: '🇦🇷',
   government: 'Federal Republic',
   timezone: 'UTC-3',
-  gdp: 383000000000,
-  description: 'Known for its passionate tango, excellent beef, wine, and diverse landscapes from Patagonia to the Andes.'
+  gdp: 389000000000,
+  nationalDish: 'Asado',
+  description: 'Famous for its tango, beef, wine, and passionate culture. Known for its European influence and vibrant capital.'
 };

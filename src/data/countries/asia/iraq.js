@@ -10,6 +10,7 @@ export const iraq = {
   flag: '🇮🇶',
   government: 'Federal parliamentary republic',
   timezone: 'UTC+3 (AST)',
-  gdp: 264182000000,
-  description: 'Iraq is a country in Western Asia, in the Mesopotamian region. It is considered the cradle of civilization, home to ancient Babylon and Assyria. Iraq has significant oil reserves and is working to rebuild its infrastructure and economy.'
+  gdp: 230000000000,
+  nationalDish: 'Masgouf',
+  description: 'Known for its ancient Mesopotamian heritage and oil reserves.'
 };

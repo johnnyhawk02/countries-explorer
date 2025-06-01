@@ -10,6 +10,7 @@ export const azerbaijan = {
   flag: '🇦🇿',
   government: 'Presidential republic',
   timezone: 'UTC+4',
-  gdp: 48000000000,
-  description: 'Azerbaijan is a transcontinental country at the boundary of Eastern Europe and Western Asia. Known for its oil reserves, Caspian Sea coastline, and the ancient Zoroastrian fire temples.'
+  gdp: 54000000000,
+  nationalDish: 'Plov',
+  description: 'Located at the crossroads of Europe and Asia, known for its oil wealth and cultural heritage.'
 };

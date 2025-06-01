@@ -10,6 +10,7 @@ export const slovakia = {
   flag: '🇸🇰',
   government: 'Parliamentary Republic',
   timezone: 'UTC+1',
-  gdp: 105000000000,
-  description: 'Slovakia is a landlocked country in Central Europe known for its dramatic natural landscape, medieval castles, and folk architecture. It features the High Tatras mountains and is famous for its traditional wooden churches and spa towns.'
+  gdp: 107000000000,
+  nationalDish: 'Halušky',
+  description: 'Known for its castles, mountains, and folk traditions.'
 };

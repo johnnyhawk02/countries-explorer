@@ -11,5 +11,6 @@ export const palestine = {
   government: 'Semi-presidential republic',
   timezone: 'UTC+2',
   gdp: 18000000000,
+  nationalDish: 'Musakhan',
   description: 'Palestine is a de jure sovereign state in Western Asia claiming the West Bank and Gaza Strip. Known for its ancient history, religious significance, and ongoing political situation.'
 };

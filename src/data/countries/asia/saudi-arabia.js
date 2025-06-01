@@ -10,6 +10,7 @@ export const saudiArabia = {
   flag: '🇸🇦',
   government: 'Absolute Monarchy',
   timezone: 'UTC+3',
-  gdp: 833000000000,
-  description: 'The largest country in the Arabian Peninsula, containing the holy cities of Mecca and Medina, and possessing vast oil reserves.'
+  gdp: 347000000000,
+  nationalDish: 'Kabsa',
+  description: 'Home to Islam\'s holiest sites and known for its oil wealth and desert landscapes.'
 };

@@ -11,5 +11,6 @@ export const bangladesh = {
   government: 'Parliamentary Republic',
   timezone: 'UTC+6',
   gdp: 416000000000,
-  description: 'One of the world\'s most densely populated countries, known for its rivers, including the Ganges Delta, and traditional textile industry.'
+  nationalDish: 'Hilsa Curry',
+  description: 'Known for its rich Bengali culture, textiles, and being one of the most densely populated countries.'
 };

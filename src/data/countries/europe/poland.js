@@ -10,6 +10,7 @@ export const poland = {
   flag: '🇵🇱',
   government: 'Republic',
   timezone: 'UTC+1',
-  gdp: 688000000000,
-  description: 'A country with a rich history, diverse landscapes from Baltic beaches to Tatra mountains, and resilient cultural heritage.'
+  gdp: 679000000000,
+  nationalDish: 'Pierogi',
+  description: 'Known for its rich history, medieval architecture, and contributions to science and culture.'
 };

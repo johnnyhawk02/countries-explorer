@@ -10,6 +10,7 @@ export const nigeria = {
   flag: '🇳🇬',
   government: 'Federal Republic',
   timezone: 'UTC+1',
-  gdp: 432000000000,
-  description: 'Africa\'s most populous country and largest economy, known for its oil reserves, diverse cultures, and Nollywood film industry.'
+  gdp: 107000000000,
+  nationalDish: 'Jollof Rice',
+  description: 'Africa\'s most populous country, known for its oil reserves, diverse cultures, and Nollywood film industry.'
 };

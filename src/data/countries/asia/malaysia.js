@@ -10,6 +10,7 @@ export const malaysia = {
   flag: '🇲🇾',
   government: 'Federal Constitutional Monarchy',
   timezone: 'UTC+8',
-  gdp: 364700000000,
-  description: 'A Southeast Asian country with diverse landscapes, from rainforests and beaches to the modern metropolis of Kuala Lumpur.'
+  gdp: 365000000000,
+  nationalDish: 'Laksa',
+  description: 'A tropical country known for its beaches, rainforests, and mix of Malay, Chinese, Indian, and European cultural influences.'
 };

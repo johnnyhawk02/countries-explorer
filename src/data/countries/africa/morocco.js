@@ -10,6 +10,7 @@ export const morocco = {
   flag: '🇲🇦',
   government: 'Constitutional Monarchy',
   timezone: 'UTC+1',
-  gdp: 124000000000,
-  description: 'A North African country with a vibrant culture, ancient cities, and diverse landscapes from the Atlas Mountains to the Sahara Desert.'
+  gdp: 174000000000,
+  nationalDish: 'Tagine',
+  description: 'Known for its imperial cities, Sahara desert, Atlas mountains, and rich cultural heritage.'
 };

@@ -10,6 +10,7 @@ export const barbados = {
   flag: '🇧🇧',
   government: 'Parliamentary republic',
   timezone: 'UTC-4 (AST)',
-  gdp: 5144000000,
-  description: 'Barbados is an island country in the Caribbean region. It is known for its British colonial heritage, rum production, and cricket culture. Barbados became a republic in 2021, removing Queen Elizabeth II as head of state while remaining in the Commonwealth.'
+  gdp: 5400000000,
+  nationalDish: 'Cou-Cou and Flying Fish',
+  description: 'An island nation in the Lesser Antilles, known for its British colonial heritage, rum production, and beautiful beaches.'
 };

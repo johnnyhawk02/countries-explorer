@@ -10,6 +10,7 @@ export const tajikistan = {
   flag: '🇹🇯',
   government: 'Presidential republic',
   timezone: 'UTC+5',
-  gdp: 8000000000,
-  description: 'Tajikistan is a landlocked country in Central Asia known for its mountainous terrain, including parts of the Pamirs, and its Persian-influenced culture and language.'
+  gdp: 8800000000,
+  nationalDish: 'Qurutob',
+  description: 'A mountainous Central Asian country known for its Persian cultural heritage.'
 };

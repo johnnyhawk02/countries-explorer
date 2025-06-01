@@ -10,6 +10,7 @@ export const trinidadAndTobago = {
   flag: '🇹🇹',
   government: 'Parliamentary republic',
   timezone: 'UTC-4 (AST)',
-  gdp: 24031000000,
-  description: 'Trinidad and Tobago is a twin-island country in the southern Caribbean. It is known for its carnival celebrations, diverse culture, calypso and soca music, and significant oil and gas industry. The country has one of the highest GDPs per capita in the Caribbean.'
+  gdp: 21520000000,
+  nationalDish: 'Doubles',
+  description: 'A twin-island nation known for its carnival, calypso music, steel drum bands, and diverse cultural heritage.'
 };

@@ -10,6 +10,7 @@ export const denmark = {
   flag: '🇩🇰',
   government: 'Constitutional Monarchy',
   timezone: 'UTC+1',
-  gdp: 348000000000,
-  description: 'Denmark is a Scandinavian country consisting of the Jutland Peninsula and numerous islands. Known for its progressive social policies, cycling culture, design excellence, and being the birthplace of hygge—the concept of coziness and contentment.'
+  gdp: 395000000000,
+  nationalDish: 'Smørrebrød',
+  description: 'Known for its design, happiness index, and being the birthplace of LEGO.'
 };

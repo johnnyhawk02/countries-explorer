@@ -10,6 +10,7 @@ export const colombia = {
   flag: '🇨🇴',
   government: 'Republic',
   timezone: 'UTC-5',
-  gdp: 323600000000,
-  description: 'A diverse country spanning the Amazon rainforest, Andes mountains, and both Caribbean and Pacific coastlines, known for coffee and emeralds.'
+  gdp: 271000000000,
+  nationalDish: 'Arepas',
+  description: 'Known for its oil reserves, diverse landscapes from Caribbean coast to Andes mountains, and cultural heritage.'
 };

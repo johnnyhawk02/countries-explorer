@@ -10,6 +10,7 @@ export const southAfrica = {
   flag: '🇿🇦',
   government: 'Republic',
   timezone: 'UTC+2',
-  gdp: 351000000000,
-  description: 'Known as the "Rainbow Nation" for its cultural diversity, stunning landscapes, wildlife, and history of overcoming apartheid.'
+  gdp: 419000000000,
+  nationalDish: 'Bobotie',
+  description: 'Known for its diverse cultures, wildlife, and overcoming apartheid to become a democracy.'
 };

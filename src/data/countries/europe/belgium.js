@@ -11,5 +11,6 @@ export const belgium = {
   government: 'Federal Parliamentary Constitutional Monarchy',
   timezone: 'UTC+1',
   gdp: 515000000000,
-  description: 'Belgium is a culturally diverse country in Western Europe, known as the headquarters of the European Union. Famous for its medieval towns, Renaissance architecture, chocolate, waffles, beer, and as the birthplace of the "French" fry.'
+  nationalDish: 'Moules-frites',
+  description: 'Known for its medieval cities, Renaissance architecture, chocolates, waffles, and being the EU headquarters.'
 };

@@ -11,5 +11,6 @@ export const portugal = {
   government: 'Republic',
   timezone: 'UTC+0',
   gdp: 239000000000,
+  nationalDish: 'Pastéis de Nata',
   description: 'A southern European country known for its beautiful beaches, historic cities, Mediterranean cuisine, and port wine production.'
 };

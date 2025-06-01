@@ -10,6 +10,7 @@ export const bulgaria = {
   flag: '🇧🇬',
   government: 'Parliamentary republic',
   timezone: 'UTC+2 (EET)',
-  gdp: 84881000000,
-  description: 'Bulgaria is a country in Southeast Europe. It is known for its diverse landscape of mountains, plains, and Black Sea coastline. Bulgaria has a rich history dating back to ancient Thrace and is famous for its rose oil production, Orthodox monasteries, and traditional folk culture.'
+  gdp: 87000000000,
+  nationalDish: 'Shopska Salad',
+  description: 'Known for its rose oil, yogurt, and rich cultural heritage spanning ancient Thracian and Ottoman influences.'
 };

@@ -10,6 +10,7 @@ export const slovenia = {
   flag: '🇸🇮',
   government: 'Parliamentary republic',
   timezone: 'UTC+1 (CET)',
-  gdp: 54235000000,
-  description: 'Slovenia is a country in southern Central Europe. It is known for its mountains, ski resorts, lakes, and caves. Slovenia has a diverse landscape and is one of the most water-rich countries in Europe. It successfully transitioned to a market economy after independence from Yugoslavia.'
+  gdp: 58000000000,
+  nationalDish: 'Kranjska Klobasa',
+  description: 'A small but beautiful country known for its stunning alpine landscapes and Lake Bled.'
 };

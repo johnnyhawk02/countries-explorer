@@ -10,6 +10,7 @@ export const turkmenistan = {
   flag: '🇹🇲',
   government: 'Presidential republic',
   timezone: 'UTC+5',
-  gdp: 40000000000,
-  description: 'Turkmenistan is a Central Asian country known for its vast natural gas reserves, the burning Darvaza gas crater, and distinctive architecture including the marble capital city of Ashgabat.'
+  gdp: 45000000000,
+  nationalDish: 'Ash',
+  description: 'Known for its natural gas reserves and ancient Silk Road cities.'
 };

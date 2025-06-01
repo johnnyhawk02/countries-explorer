@@ -10,6 +10,7 @@ export const nepal = {
   flag: '🇳🇵',
   government: 'Federal parliamentary republic',
   timezone: 'UTC+5:45 (NPT)',
-  gdp: 36289000000,
-  description: 'Nepal is a landlocked country in South Asia, located mainly in the Himalayas. It is home to eight of the world\'s ten tallest mountains, including Mount Everest. Nepal has a rich cultural heritage and is the birthplace of Buddha.'
+  gdp: 416000000000,
+  nationalDish: 'Gundruk',
+  description: 'Home to Mount Everest and known for its mountain culture and Hindu and Buddhist heritage.'
 };

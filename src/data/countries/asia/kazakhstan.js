@@ -10,6 +10,7 @@ export const kazakhstan = {
   flag: '🇰🇿',
   government: 'Presidential Republic',
   timezone: 'UTC+6',
-  gdp: 190000000000,
-  description: 'Kazakhstan is the world\'s largest landlocked country, rich in oil, natural gas, and minerals. It was the last Soviet republic to declare independence and is known for the Baikonur Cosmodrome space launch facility.'
+  gdp: 219000000000,
+  nationalDish: 'Beshbarmak',
+  description: 'The world\'s largest landlocked country, known for its oil reserves and vast steppes.'
 };

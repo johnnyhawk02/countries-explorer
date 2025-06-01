@@ -10,6 +10,7 @@ export const sriLanka = {
   flag: '🇱🇰',
   government: 'Presidential Republic',
   timezone: 'UTC+5:30',
-  gdp: 84000000000,
+  gdp: 85000000000,
+  nationalDish: 'Kottu Roti',
   description: 'Sri Lanka is an island nation in South Asia known for its tropical beaches, ancient Buddhist ruins, tea plantations, and diverse wildlife. It is famous for its cultural heritage, spices, and gemstones.'
 };

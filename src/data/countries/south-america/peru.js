@@ -10,6 +10,7 @@ export const peru = {
   flag: '🇵🇪',
   government: 'Republic',
   timezone: 'UTC-5',
-  gdp: 242000000000,
-  description: 'Home to Machu Picchu and parts of the Amazon rainforest, known for its ancient Inca ruins, diverse geography, and rich culinary traditions.'
+  gdp: 212000000000,
+  nationalDish: 'Lomo Saltado',
+  description: 'Home to Machu Picchu and the ancient Inca civilization, with diverse geography from coast to Amazon.'
 };

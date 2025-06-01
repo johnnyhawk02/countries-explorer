@@ -10,6 +10,7 @@ export const vaticanCity = {
   flag: '🇻🇦',
   government: 'Absolute monarchy (ecclesiastical)',
   timezone: 'UTC+1',
-  gdp: 400000000,
-  description: 'Vatican City is the smallest country in the world, located within Rome. It serves as the spiritual and administrative headquarters of the Roman Catholic Church.'
+  gdp: 18000000,
+  nationalDish: 'Fettuccine alla Papalina',
+  description: 'The world\'s smallest country, home to the Pope and the Catholic Church\'s headquarters.'
 };

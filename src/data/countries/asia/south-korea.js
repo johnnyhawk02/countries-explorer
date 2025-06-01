@@ -10,6 +10,7 @@ export const southKorea = {
   flag: '🇰🇷',
   government: 'Republic',
   timezone: 'UTC+9',
-  gdp: 1811000000000,
-  description: 'Known for its rapid economic development, K-pop culture, advanced technology, and delicious cuisine like kimchi and bulgogi.'
+  gdp: 761000000000,
+  nationalDish: 'Kimchi',
+  description: 'Known for its technological advancement, K-pop culture, and rich traditional heritage.'
 };

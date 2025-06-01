@@ -10,6 +10,7 @@ export const austria = {
   flag: '🇦🇹',
   government: 'Federal Republic',
   timezone: 'UTC+1',
-  gdp: 481000000000,
-  description: 'A landlocked country known for its Alpine scenery, classical music heritage, imperial history, and beautiful baroque architecture.'
+  gdp: 429000000000,
+  nationalDish: 'Wiener Schnitzel',
+  description: 'Known for its classical music heritage, Alpine landscapes, and cultural contributions to arts and sciences.'
 };

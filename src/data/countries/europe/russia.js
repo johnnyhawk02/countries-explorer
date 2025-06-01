@@ -10,6 +10,7 @@ export const russia = {
   flag: '🇷🇺',
   government: 'Federal Republic',
   timezone: 'UTC+2 to UTC+12',
-  gdp: 1483000000000,
-  description: 'The world\'s largest country by land area, spanning 11 time zones from Europe to Asia with vast natural resources.'
+  gdp: 1878000000000,
+  nationalDish: 'Borscht',
+  description: 'The largest country in the world, spanning eleven time zones and known for its vast natural resources and rich cultural heritage.'
 };

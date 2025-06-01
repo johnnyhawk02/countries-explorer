@@ -94,6 +94,13 @@ const CountryDetailModal = ({ country, isOpen, onClose }) => {
                   <span className="font-medium">{country.timezone}</span>
                 </div>
                 
+                {country.nationalDish && (
+                  <div className="flex justify-between">
+                    <span className="text-gray-600">National Dish:</span>
+                    <span className="font-medium">{country.nationalDish}</span>
+                  </div>
+                )}
+                
                 <div>
                   <span className="text-gray-600">Languages:</span>
                   <div className="mt-1">

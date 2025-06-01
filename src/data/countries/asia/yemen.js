@@ -10,6 +10,7 @@ export const yemen = {
   flag: '🇾🇪',
   government: 'Presidential republic',
   timezone: 'UTC+3',
-  gdp: 21000000000,
-  description: 'Yemen is a country at the southern end of the Arabian Peninsula known for its ancient history, distinctive architecture, coffee cultivation, and strategic location at the entrance to the Red Sea.'
+  gdp: 27000000000,
+  nationalDish: 'Saltah',
+  description: 'Located at the southern tip of the Arabian Peninsula, known for its ancient heritage.'
 };

@@ -10,6 +10,7 @@ export const hungary = {
   flag: '🇭🇺',
   government: 'Parliamentary Republic',
   timezone: 'UTC+1',
-  gdp: 181000000000,
+  gdp: 248000000000,
+  nationalDish: 'Goulash',
   description: 'Hungary is a landlocked country in Central Europe known for its thermal baths, rich cultural heritage, and distinctive language. Budapest, divided by the Danube River, is famous for its beautiful architecture and vibrant cultural scene.'
 };

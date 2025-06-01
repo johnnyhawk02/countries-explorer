@@ -10,6 +10,7 @@ export const switzerland = {
   flag: '🇨🇭',
   government: 'Federal Republic',
   timezone: 'UTC+1',
-  gdp: 703082000000,
-  description: 'A mountainous Central European country known for banking, fine watches, chocolate, cheese, and breathtaking Alpine scenery.'
+  gdp: 531000000000,
+  nationalDish: 'Fondue',
+  description: 'Known for its Alps, banking, watches, chocolate, and neutrality in international affairs.'
 };

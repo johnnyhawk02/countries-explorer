@@ -10,6 +10,7 @@ export const ireland = {
   flag: '🇮🇪',
   government: 'Republic',
   timezone: 'UTC+0',
-  gdp: 498000000000,
-  description: 'Known for its lush landscapes, Celtic culture, literary heritage, traditional music, and friendly atmosphere with vibrant pub culture.'
+  gdp: 450000000000,
+  nationalDish: 'Irish Stew',
+  description: 'Known for its green landscapes, rich literary tradition, and friendly culture.'
 };

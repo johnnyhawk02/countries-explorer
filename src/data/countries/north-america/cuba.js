@@ -11,5 +11,6 @@ export const cuba = {
   government: 'Socialist Republic',
   timezone: 'UTC-5',
   gdp: 107350000000,
+  nationalDish: 'Ropa Vieja',
   description: 'The largest Caribbean island, known for its vibrant culture, vintage cars, rum, cigars, colonial architecture, and revolutionary history.'
 };

@@ -10,6 +10,7 @@ export const norway = {
   flag: '🇳🇴',
   government: 'Constitutional Monarchy',
   timezone: 'UTC+1',
-  gdp: 482000000000,
-  description: 'Famous for its breathtaking fjords, Northern Lights, Viking heritage, and consistently ranking among the world\'s happiest countries.'
+  gdp: 398000000000,
+  nationalDish: 'Lutefisk',
+  description: 'Known for its fjords, midnight sun, Northern Lights, and oil wealth.'
 };

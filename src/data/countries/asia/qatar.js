@@ -10,6 +10,7 @@ export const qatar = {
   flag: '🇶🇦',
   government: 'Absolute Monarchy',
   timezone: 'UTC+3',
-  gdp: 183000000000,
-  description: 'Qatar is a small peninsula country known for its massive oil and natural gas reserves, modern architecture, and hosting the 2022 FIFA World Cup. It has one of the highest GDPs per capita in the world.'
+  gdp: 350000000000,
+  nationalDish: 'Machboos',
+  description: 'A wealthy Gulf state known for hosting the FIFA World Cup 2022.'
 };

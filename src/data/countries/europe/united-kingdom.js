@@ -10,6 +10,7 @@ export const unitedKingdom = {
   flag: '🇬🇧',
   government: 'Constitutional Monarchy',
   timezone: 'UTC+0',
-  gdp: 2827000000000,
-  description: 'An island nation comprising England, Scotland, Wales, and Northern Ireland, with a rich history and global cultural influence.'
+  gdp: 2938000000000,
+  nationalDish: 'Fish and Chips',
+  description: 'A historic island nation known for its influence on global culture, language, and institutions.'
 };

@@ -10,6 +10,7 @@ export const germany = {
   flag: '🇩🇪',
   government: 'Federal Republic',
   timezone: 'UTC+1',
-  gdp: 3846000000000,
-  description: 'The economic powerhouse of Europe, known for its engineering, automotive industry, rich history, and cultural contributions.'
+  gdp: 4260000000000,
+  nationalDish: 'Sauerbraten',
+  description: 'Europe\'s largest economy, known for its engineering, automotive industry, and cultural contributions.'
 };

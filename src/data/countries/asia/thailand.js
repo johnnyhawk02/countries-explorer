@@ -10,6 +10,7 @@ export const thailand = {
   flag: '🇹🇭',
   government: 'Constitutional Monarchy',
   timezone: 'UTC+7',
-  gdp: 501000000000,
-  description: 'Known as the "Land of Smiles," famous for its temples, delicious cuisine, tropical beaches, and warm hospitality.'
+  gdp: 543000000000,
+  nationalDish: 'Pad Thai',
+  description: 'Known as the "Land of Smiles," famous for its temples, beaches, cuisine, and rich cultural traditions.'
 };

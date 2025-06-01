@@ -10,6 +10,7 @@ export const kyrgyzstan = {
   flag: '🇰🇬',
   government: 'Parliamentary republic',
   timezone: 'KGT (UTC+6)',
-  gdp: 10.9, // billion USD (2023 est.)
-  description: 'Kyrgyzstan is a mountainous Central Asian country known for its stunning natural beauty, including the Tian Shan mountain range and pristine alpine lakes like Issyk-Kul. The country has a strong nomadic heritage and is famous for its traditional felt-making, horse culture, and the epic of Manas. Kyrgyzstan is one of the most democratic countries in Central Asia and has a rich tradition of oral literature and handicrafts.'
+  gdp: 8200000000,
+  nationalDish: 'Beshbarmak',
+  description: 'A mountainous Central Asian country known for its nomadic heritage.'
 };

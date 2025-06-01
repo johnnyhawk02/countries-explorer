@@ -10,6 +10,7 @@ export const georgia = {
   flag: '🇬🇪',
   government: 'Parliamentary republic',
   timezone: 'UTC+4',
-  gdp: 17000000000,
+  gdp: 16000000000,
+  nationalDish: 'Khachapuri',
   description: 'Georgia is a transcontinental country at the intersection of Europe and Asia. Known for its ancient wine-making tradition, Caucasus Mountains, and unique alphabet and culture.'
 };

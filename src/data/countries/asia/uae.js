@@ -10,6 +10,7 @@ export const uae = {
   flag: '🇦🇪',
   government: 'Federal Absolute Monarchy',
   timezone: 'UTC+4',
-  gdp: 421000000000,
+  gdp: 507000000000,
+  nationalDish: 'Machboos',
   description: 'The UAE is a federation of seven emirates known for its modern cities, luxury shopping, and oil wealth. Dubai and Abu Dhabi are major global business and tourism hubs with impressive architecture and cultural attractions.'
 };

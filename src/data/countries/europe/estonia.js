@@ -10,6 +10,7 @@ export const estonia = {
   flag: '🇪🇪',
   government: 'Parliamentary republic',
   timezone: 'UTC+2 (EET)',
-  gdp: 37191000000,
-  description: 'Estonia is a country in Northern Europe, one of the three Baltic states. It is known for its digital innovation, e-governance, and tech startup ecosystem. Estonia has a rich medieval heritage visible in its capital Tallinn and is famous for being one of the most digitally advanced societies in the world.'
+  gdp: 38000000000,
+  nationalDish: 'Kama',
+  description: 'Known for its digital innovation, medieval old town in Tallinn, and being one of the most digitally advanced countries.'
 };

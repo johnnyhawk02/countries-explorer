@@ -10,6 +10,7 @@ export const dominicanRepublic = {
   flag: '🇩🇴',
   government: 'Republic',
   timezone: 'UTC-4',
-  gdp: 94500000000,
-  description: 'A Caribbean nation sharing the island of Hispaniola with Haiti, known for its beaches, resorts, golf courses, and rich colonial history.'
+  gdp: 113000000000,
+  nationalDish: 'La Bandera',
+  description: 'Shares the island of Hispaniola with Haiti, known for its beaches, resorts, merengue music, and baseball.'
 };

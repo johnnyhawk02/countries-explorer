@@ -10,6 +10,7 @@ export const australia = {
   flag: '🇦🇺',
   government: 'Federal Parliamentary Democracy',
   timezone: 'UTC+8 to UTC+11',
-  gdp: 1323000000000,
-  description: 'The world\'s smallest continent and largest island, known for its unique wildlife, vast outback, and vibrant cities.'
+  gdp: 1532000000000,
+  nationalDish: 'Meat Pie',
+  description: 'Known for its unique wildlife, stunning landscapes, and laid-back culture. Home to the Great Barrier Reef and Outback.'
 };

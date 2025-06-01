@@ -10,6 +10,7 @@ export const albania = {
   flag: '🇦🇱',
   government: 'Parliamentary republic',
   timezone: 'UTC+1 (CET)',
-  gdp: 18256000000,
-  description: 'Albania is a country in Southeastern Europe. It has a coast on the Adriatic and Ionian Seas and is known for its mountainous landscape, medieval castles, and rich cultural heritage influenced by Illyrian, Greek, Roman, and Ottoman civilizations.'
+  gdp: 13000000000,
+  nationalDish: 'Tavë Kosi',
+  description: 'Known for its mountainous landscape, Mediterranean and Balkan cultural influences.'
 };

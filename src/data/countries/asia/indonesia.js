@@ -10,6 +10,7 @@ export const indonesia = {
   flag: '🇮🇩',
   government: 'Republic',
   timezone: 'UTC+7 to UTC+9',
-  gdp: 1058000000000,
-  description: 'The world\'s largest island country, comprising over 17,000 islands with diverse cultures, volcanoes, and tropical rainforests.'
+  gdp: 387000000000,
+  nationalDish: 'Rendang',
+  description: 'A diverse archipelago nation with thousands of islands, known for its rich cultural heritage and biodiversity.'
 };

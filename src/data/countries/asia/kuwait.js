@@ -10,6 +10,7 @@ export const kuwait = {
   flag: '🇰🇼',
   government: 'Constitutional monarchy',
   timezone: 'AST (UTC+3)',
-  gdp: 184.6, // billion USD (2023 est.)
+  gdp: 134000000000,
+  nationalDish: 'Gabout',
   description: 'Kuwait is a small but wealthy country in the Persian Gulf, known for its vast oil reserves and modern architecture. The country has one of the highest per capita incomes in the world and provides extensive social benefits to its citizens. Kuwait City features impressive modern skyscrapers and traditional souks. The country played a significant role in regional politics and has invested heavily in education and healthcare infrastructure.'
 };

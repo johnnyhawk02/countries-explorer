@@ -10,6 +10,7 @@ export const pakistan = {
   flag: '🇵🇰',
   government: 'Federal Republic',
   timezone: 'UTC+5',
-  gdp: 376500000000,
-  description: 'Home to the Karakoram mountain range, ancient Indus Valley civilization, and diverse cultures with a rich history spanning thousands of years.'
+  gdp: 347000000000,
+  nationalDish: 'Karahi',
+  description: 'Known for its rich history, diverse culture, and being home to ancient civilizations.'
 };

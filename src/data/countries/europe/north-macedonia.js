@@ -10,6 +10,7 @@ export const northMacedonia = {
   flag: '🇲🇰',
   government: 'Parliamentary republic',
   timezone: 'UTC+1 (CET)',
-  gdp: 13822000000,
-  description: 'North Macedonia is a landlocked country in Southeast Europe. It gained independence from Yugoslavia in 1991 and is known for its mountains, lakes, and ancient history including connections to Alexander the Great and the ancient kingdom of Macedon.'
+  gdp: 13000000000,
+  nationalDish: 'Tavče Gravče',
+  description: 'Known for its rich history and cultural heritage in the heart of the Balkans.'
 };

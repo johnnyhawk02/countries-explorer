@@ -10,6 +10,7 @@ export const czech = {
   flag: '🇨🇿',
   government: 'Parliamentary Republic',
   timezone: 'UTC+1',
-  gdp: 269000000000,
-  description: 'The Czech Republic is a landlocked country in Central Europe known for its stunning medieval architecture, rich history, and famous beer culture. Prague, its capital, is one of Europe\'s most beautiful cities.'
+  gdp: 281000000000,
+  nationalDish: 'Goulash',
+  description: 'Known for its beautiful capital Prague, beer culture, and well-preserved medieval architecture.'
 };

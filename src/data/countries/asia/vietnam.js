@@ -10,6 +10,7 @@ export const vietnam = {
   flag: '🇻🇳',
   government: 'Socialist Republic',
   timezone: 'UTC+7',
-  gdp: 366000000000,
-  description: 'A Southeast Asian country known for its bustling cities, Buddhist pagodas, rivers, beaches, and remarkable resilience throughout history.'
+  gdp: 348000000000,
+  nationalDish: 'Pho',
+  description: 'Known for its stunning landscapes, rich history, and rapidly growing economy.'
 };

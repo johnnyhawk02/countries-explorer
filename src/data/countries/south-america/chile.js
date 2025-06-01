@@ -10,6 +10,7 @@ export const chile = {
   flag: '🇨🇱',
   government: 'Republic',
   timezone: 'UTC-3 to UTC-6',
-  gdp: 252000000000,
-  description: 'A long, narrow country stretching along South America\'s western coast, known for its wine, copper mining, and diverse geography.'
+  gdp: 317000000000,
+  nationalDish: 'Empanadas',
+  description: 'Known for its long Pacific coastline, Andes mountains, and diverse geography from desert to glaciers.'
 };

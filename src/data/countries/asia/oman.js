@@ -10,6 +10,7 @@ export const oman = {
   flag: '🇴🇲',
   government: 'Absolute monarchy',
   timezone: 'GST (UTC+4)',
-  gdp: 95.0, // billion USD (2023 est.)
+  gdp: 76000000000,
+  nationalDish: 'Shuwa',
   description: 'Oman is a sultanate on the Arabian Peninsula known for its dramatic landscapes, from pristine beaches to desert dunes and rugged mountains. The country has a rich maritime history and was once a powerful trading empire. Oman is famous for its traditional architecture, frankincense production, and cultural tolerance. The capital Muscat features beautiful mosques, traditional souks, and modern infrastructure blending with historical sites.'
 };

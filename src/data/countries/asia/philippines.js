@@ -10,6 +10,7 @@ export const philippines = {
   flag: '🇵🇭',
   government: 'Republic',
   timezone: 'UTC+8',
-  gdp: 402600000000,
-  description: 'An archipelago comprising more than 7,000 islands, known for its beaches, mountains, rainforests, and diverse marine life.'
+  gdp: 347000000000,
+  nationalDish: 'Adobo',
+  description: 'An archipelago nation with thousands of islands, known for its tropical beaches and diverse cultural influences.'
 };

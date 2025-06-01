@@ -10,6 +10,7 @@ export const finland = {
   flag: '🇫🇮',
   government: 'Parliamentary Republic',
   timezone: 'UTC+2',
-  gdp: 269000000000,
-  description: 'Finland is a Northern European nation known for its extensive forests, thousands of lakes, high quality of life, and innovative education system. It consistently ranks among the happiest countries in the world and is home to the northern lights and midnight sun.'
+  gdp: 298000000000,
+  nationalDish: 'Karelian Pasty',
+  description: 'Known for its education system, technology companies like Nokia, and beautiful lakes and forests.'
 };

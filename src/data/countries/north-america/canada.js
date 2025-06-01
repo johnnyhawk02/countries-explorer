@@ -10,6 +10,7 @@ export const canada = {
   flag: '🇨🇦',
   government: 'Federal Parliamentary Democracy',
   timezone: 'UTC-3.5 to UTC-8',
-  gdp: 1736000000000,
-  description: 'The second-largest country by land area, known for its natural beauty, multiculturalism, and high quality of life.'
+  gdp: 1781000000000,
+  nationalDish: 'Poutine',
+  description: 'Known for its vast wilderness, friendly people, multiculturalism, and high quality of life.'
 };

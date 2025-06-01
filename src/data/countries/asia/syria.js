@@ -10,6 +10,7 @@ export const syria = {
   flag: '🇸🇾',
   government: 'Presidential republic',
   timezone: 'UTC+2',
-  gdp: 25000000000,
-  description: 'Syria is a country in Western Asia known for its ancient civilizations, historic cities like Damascus and Aleppo, and rich cultural heritage spanning thousands of years.'
+  gdp: 20000000000,
+  nationalDish: 'Kibbeh',
+  description: 'A war-torn country with a rich historical heritage in the heart of the Middle East.'
 };

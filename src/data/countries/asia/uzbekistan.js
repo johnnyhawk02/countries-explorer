@@ -10,6 +10,7 @@ export const uzbekistan = {
   flag: '🇺🇿',
   government: 'Presidential Republic',
   timezone: 'UTC+5',
-  gdp: 57900000000,
+  gdp: 40000000000,
+  nationalDish: 'Osh',
   description: 'Uzbekistan is a Central Asian country known for its rich history along the Silk Road, featuring ancient cities like Samarkand and Bukhara. It is famous for its Islamic architecture, traditional crafts, and cotton production.'
 };

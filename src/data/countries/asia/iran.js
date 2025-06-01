@@ -10,6 +10,7 @@ export const iran = {
   flag: '🇮🇷',
   government: 'Islamic republic',
   timezone: 'UTC+3:30 (IRST)',
-  gdp: 231289000000,
-  description: 'Iran, also known as Persia, is a country in Western Asia. It has one of the world\'s oldest civilizations, dating back to 3200 BC. Iran is known for its rich cultural heritage, including Persian literature, architecture, and art, as well as significant oil and gas reserves.'
+  gdp: 507000000000,
+  nationalDish: 'Kabuli Pulao',
+  description: 'A landlocked country known for its ancient Persian heritage and saffron.'
 };

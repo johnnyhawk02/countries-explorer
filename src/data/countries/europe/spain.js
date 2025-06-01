@@ -10,6 +10,7 @@ export const spain = {
   flag: '🇪🇸',
   government: 'Constitutional Monarchy',
   timezone: 'UTC+1',
-  gdp: 1281000000000,
-  description: 'Known for its vibrant culture, flamenco dancing, beautiful architecture, and diverse regions from Catalonia to Andalusia.'
+  gdp: 1393000000000,
+  nationalDish: 'Paella',
+  description: 'Famous for its rich history, vibrant culture, flamenco dancing, and diverse regional cuisines.'
 };

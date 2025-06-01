@@ -10,6 +10,7 @@ export const liechtenstein = {
   flag: '🇱🇮',
   government: 'Constitutional monarchy',
   timezone: 'CET (UTC+1)',
-  gdp: 6.6, // billion USD (2023 est.)
-  description: 'Liechtenstein is a small landlocked principality nestled between Austria and Switzerland in the Alps. Despite its tiny size, it is one of the wealthiest countries in the world per capita and serves as a major financial center. The country is known for its medieval castles, Alpine landscapes, and museums. Liechtenstein is one of only two doubly landlocked countries in the world and has a unique political system with significant princely powers.'
+  gdp: 200000000,
+  nationalDish: 'Käsknöpfle',
+  description: 'A tiny Alpine principality between Austria and Switzerland.'
 };

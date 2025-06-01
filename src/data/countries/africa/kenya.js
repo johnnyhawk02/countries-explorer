@@ -10,6 +10,7 @@ export const kenya = {
   flag: '🇰🇪',
   government: 'Republic',
   timezone: 'UTC+3',
-  gdp: 95000000000,
-  description: 'Famous for its wildlife safaris, the Great Rift Valley, Mount Kenya, and as the birthplace of long-distance running champions.'
+  gdp: 109000000000,
+  nationalDish: 'Ugali',
+  description: 'Known for its wildlife, including the Great Migration, and Mount Kilimanjaro.'
 };

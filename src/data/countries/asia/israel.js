@@ -10,6 +10,7 @@ export const israel = {
   flag: '🇮🇱',
   government: 'Parliamentary Democracy',
   timezone: 'UTC+2',
-  gdp: 402000000000,
-  description: 'Israel is a Middle Eastern country known for its historical and religious significance to Judaism, Christianity, and Islam. It has a diverse culture, advanced technology sector, Mediterranean coastline, and is home to sites like Jerusalem\'s Old City and the Dead Sea.'
+  gdp: 481000000000,
+  nationalDish: 'Falafel',
+  description: 'A technologically advanced country in the Middle East, known for its innovation and historical significance.'
 };

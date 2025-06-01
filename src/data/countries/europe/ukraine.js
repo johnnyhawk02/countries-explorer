@@ -10,6 +10,7 @@ export const ukraine = {
   flag: '🇺🇦',
   government: 'Semi-Presidential Republic',
   timezone: 'UTC+2',
-  gdp: 170000000000,
-  description: 'Ukraine is the largest country entirely within Europe, known for its fertile plains, Orthodox churches, and rich cultural heritage. It has a long history of agriculture and is famous for its traditional folk culture and cuisine.'
+  gdp: 200000000000,
+  nationalDish: 'Borscht',
+  description: 'The largest country in Europe, known for its rich history and cultural contributions.'
 };

@@ -10,6 +10,7 @@ export const monaco = {
   flag: '🇲🇨',
   government: 'Constitutional monarchy',
   timezone: 'CET (UTC+1)',
-  gdp: 7.6, // billion USD (2023 est.)
-  description: 'Monaco is the second-smallest country in the world, located on the French Riviera in Western Europe. Famous for the Monte Carlo Casino, the Monaco Grand Prix, and as a playground for the wealthy, Monaco has no personal income tax. Despite its tiny size, it has one of the highest population densities in the world. The principality is known for luxury yachts, high-end shopping, and prestigious events.'
+  gdp: 7000000000,
+  nationalDish: 'Barbajuans',
+  description: 'A tiny principality on the French Riviera, famous for its casinos and Formula 1 Grand Prix.'
 };

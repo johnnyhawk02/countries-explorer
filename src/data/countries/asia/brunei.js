@@ -10,6 +10,7 @@ export const brunei = {
   flag: '🇧🇳',
   government: 'Absolute monarchy',
   timezone: 'BNT (UTC+8)',
-  gdp: 15.1, // billion USD (2023 est.)
-  description: 'Brunei is a small, wealthy nation on the island of Borneo, known for its vast oil and natural gas reserves. The country has one of the highest standards of living in Asia, with free healthcare and education. The Sultan of Brunei is one of the world\'s richest monarchs. The country is famous for its pristine rainforests, Islamic architecture, and the magnificent Sultan Omar Ali Saifuddien Mosque.'
+  gdp: 15000000000,
+  nationalDish: 'Nasi Lemak',
+  description: 'A small wealthy nation on Borneo known for its oil wealth and Islamic culture.'
 };

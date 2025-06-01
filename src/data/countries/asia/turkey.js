@@ -10,6 +10,7 @@ export const turkey = {
   flag: '🇹🇷',
   government: 'Presidential Republic',
   timezone: 'UTC+3',
-  gdp: 720000000000,
+  gdp: 754000000000,
+  nationalDish: 'Döner Kebab',
   description: 'Turkey is a transcontinental country straddling southeastern Europe and western Asia. Known for its rich history as the center of the Ottoman Empire, it features stunning architecture like the Hagia Sophia, diverse landscapes, and vibrant culture where East meets West.'
 };

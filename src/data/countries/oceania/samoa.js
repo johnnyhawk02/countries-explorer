@@ -10,6 +10,7 @@ export const samoa = {
   flag: '🇼🇸',
   government: 'Parliamentary Democracy',
   timezone: 'UTC+13',
-  gdp: 950000000,
-  description: 'An island country in Polynesia with beautiful beaches, coral reefs, rainforests, and a strong traditional culture called Fa\'a Samoa.'
+  gdp: 930000000,
+  nationalDish: 'Palusami',
+  description: 'A Polynesian island nation known for its traditional fa\'a Samoa culture, beautiful beaches, and rugby.'
 };

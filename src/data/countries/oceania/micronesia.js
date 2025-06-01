@@ -10,6 +10,7 @@ export const micronesia = {
   flag: '🇫🇲',
   government: 'Federal republic',
   timezone: 'UTC+10 to UTC+11',
-  gdp: 401000000,
-  description: 'The Federated States of Micronesia is an island country in the Pacific Ocean. It consists of four states spread across the Caroline Islands. The country is known for its tropical climate, coral reefs, and World War II historical sites.'
+  gdp: 400000000,
+  nationalDish: 'Kelaguen',
+  description: 'A Pacific island federation known for its diverse marine life, WWII sites, and traditional island cultures.'
 };

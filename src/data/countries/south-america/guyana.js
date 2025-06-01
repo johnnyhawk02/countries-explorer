@@ -10,6 +10,7 @@ export const guyana = {
   flag: '🇬🇾',
   government: 'Parliamentary Republic',
   timezone: 'UTC-4',
-  gdp: 6800000000,
-  description: 'Guyana is the only English-speaking country in South America, known for its pristine rainforests, Kaieteur Falls, and diverse culture. It has significant oil reserves and is one of the most biodiverse countries in the world.'
+  gdp: 8480000000,
+  nationalDish: 'Pepperpot',
+  description: 'A South American country on the Atlantic coast, known for its diverse culture, rainforests, and emerging oil industry.'
 };

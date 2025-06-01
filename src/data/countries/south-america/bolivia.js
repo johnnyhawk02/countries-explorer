@@ -10,6 +10,7 @@ export const bolivia = {
   flag: '🇧🇴',
   government: 'Republic',
   timezone: 'UTC-4',
-  gdp: 44000000000,
-  description: 'A landlocked country with diverse landscapes including the Andes Mountains, Atacama Desert, and Amazon Basin rainforest, with strong indigenous cultures.'
+  gdp: 47270000000,
+  nationalDish: 'Salteñas',
+  description: 'A landlocked country in central South America, known for its salt flats, high-altitude capital La Paz, and indigenous culture.'
 };

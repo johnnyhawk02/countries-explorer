@@ -10,6 +10,7 @@ export const malawi = {
   flag: '🇲🇼',
   government: 'Presidential republic',
   timezone: 'UTC+2',
-  gdp: 7500000000,
-  description: 'Malawi is a landlocked country in southeastern Africa known as "The Warm Heart of Africa" for its friendly people. Famous for Lake Malawi, tobacco farming, and diverse wildlife.'
+  gdp: 13180000000,
+  nationalDish: 'Nsima',
+  description: 'A landlocked southeastern African country known as the "Warm Heart of Africa" for its friendly people and Lake Malawi.'
 };

@@ -10,6 +10,7 @@ export const botswana = {
   flag: '🇧🇼',
   government: 'Parliamentary Republic',
   timezone: 'UTC+2',
-  gdp: 18600000000,
-  description: 'Botswana is a landlocked country in Southern Africa known for its political stability, diamond mining industry, and vast wilderness areas. The Kalahari Desert covers much of the country, and it is home to the Okavango Delta.'
+  gdp: 20350000000,
+  nationalDish: 'Seswaa',
+  description: 'A landlocked southern African country known for the Kalahari Desert, Okavango Delta, and diamond mining.'
 };

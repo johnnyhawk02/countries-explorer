@@ -10,6 +10,7 @@ export const laos = {
   flag: '🇱🇦',
   government: 'Socialist republic',
   timezone: 'UTC+7 (ICT)',
-  gdp: 19127000000,
-  description: 'Laos is a landlocked country in Southeast Asia. It is known for its mountainous terrain, French colonial architecture, Buddhist monasteries, and the Mekong River. Laos is the only landlocked country in Southeast Asia.'
+  gdp: 19270000000,
+  nationalDish: 'Larb',
+  description: 'A landlocked Southeast Asian country known for its mountainous terrain, French colonial architecture, and Buddhist monasteries.'
 };

@@ -10,6 +10,7 @@ export const mauritania = {
   flag: '🇲🇷',
   government: 'Presidential republic',
   timezone: 'UTC+0',
-  gdp: 8000000000,
-  description: 'Mauritania is a West African country bridging the Maghreb and sub-Saharan Africa. Known for its vast Sahara Desert landscapes, nomadic traditions, and iron ore mining.'
+  gdp: 9560000000,
+  nationalDish: 'Thieboudienne',
+  description: 'A West African country mostly covered by the Sahara desert, known for its nomadic heritage and Islamic culture.'
 };

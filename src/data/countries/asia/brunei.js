@@ -10,7 +10,7 @@ export const brunei = {
   flag: '🇧🇳',
   government: 'Absolute monarchy',
   timezone: 'BNT (UTC+8)',
-  gdp: 15000000000,
-  nationalDish: 'Nasi Lemak',
-  description: 'A small wealthy nation on Borneo known for its oil wealth and Islamic culture.'
+  gdp: 13570000000,
+  nationalDish: 'Ambuyat',
+  description: 'A small, wealthy Southeast Asian country on the island of Borneo, known for its oil wealth and Islamic architecture.'
 };

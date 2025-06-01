@@ -10,6 +10,7 @@ export const libya = {
   flag: '🇱🇾',
   government: 'Government of National Unity',
   timezone: 'UTC+2',
-  gdp: 25000000000,
+  gdp: 30850000000,
+  nationalDish: 'Bazin',
   description: 'Libya is a North African country known for its vast oil reserves and ancient Roman ruins. It has the largest proven oil reserves in Africa and contains important archaeological sites from the Roman and Greek periods.'
 };

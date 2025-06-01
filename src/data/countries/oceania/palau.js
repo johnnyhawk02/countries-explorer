@@ -10,6 +10,7 @@ export const palau = {
   flag: '🇵🇼',
   government: 'Presidential republic',
   timezone: 'UTC+9 (PWT)',
-  gdp: 264000000,
-  description: 'Palau is an island country in the Pacific Ocean. It is known for its pristine coral reefs, diverse marine life, and commitment to environmental conservation. Palau was one of the first countries to establish a shark sanctuary and has strong marine protection laws.'
+  gdp: 280000000,
+  nationalDish: 'Tinola',
+  description: 'A Pacific island nation known for its pristine marine environment, diving sites, and jellyfish lake.'
 };

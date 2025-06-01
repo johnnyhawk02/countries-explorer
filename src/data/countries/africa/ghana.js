@@ -11,5 +11,6 @@ export const ghana = {
   government: 'Republic',
   timezone: 'UTC+0',
   gdp: 75500000000,
+  nationalDish: 'Fufu with Light Soup',
   description: 'A West African country known for its diverse wildlife, old forts, and secluded beaches, with a rich cultural heritage.'
 };

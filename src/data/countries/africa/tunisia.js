@@ -10,6 +10,7 @@ export const tunisia = {
   flag: '🇹🇳',
   government: 'Republic',
   timezone: 'UTC+1',
-  gdp: 39200000000,
-  description: 'Tunisia is a North African country on the Mediterranean coast known for its rich history, ancient ruins, and beautiful beaches. It was the birthplace of the Arab Spring and has since been working toward democracy.'
+  gdp: 47620000000,
+  nationalDish: 'Couscous',
+  description: 'A North African country known for its beaches, desert, and ancient Carthage ruins near the capital Tunis.'
 };

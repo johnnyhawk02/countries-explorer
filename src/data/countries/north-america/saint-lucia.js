@@ -10,6 +10,7 @@ export const saintLucia = {
   flag: '🇱🇨',
   government: 'Parliamentary democracy under constitutional monarchy',
   timezone: 'UTC-4 (AST)',
-  gdp: 2122000000,
-  description: 'Saint Lucia is an island country in the Caribbean Sea. It is known for its distinctive Piton mountains, beautiful beaches, and luxury resorts. Saint Lucia has a rich cultural heritage influenced by African, French, and British traditions.'
+  gdp: 2120000000,
+  nationalDish: 'Green Fig and Saltfish',
+  description: 'A Caribbean island nation known for its dramatic Piton peaks, luxury resorts, and vibrant Creole culture.'
 };

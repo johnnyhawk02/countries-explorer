@@ -10,6 +10,7 @@ export const lesotho = {
   flag: '🇱🇸',
   government: 'Parliamentary constitutional monarchy',
   timezone: 'UTC+2',
-  gdp: 2500000000,
-  description: 'Lesotho is a landlocked kingdom completely surrounded by South Africa. Known as the "Kingdom in the Sky" due to its high altitude, it features dramatic mountain landscapes and traditional Basotho culture.'
+  gdp: 2460000000,
+  nationalDish: 'Papa',
+  description: 'A landlocked kingdom completely surrounded by South Africa, known for its mountainous terrain and traditional Basotho culture.'
 };

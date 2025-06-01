@@ -10,6 +10,7 @@ export const chad = {
   flag: '🇹🇩',
   government: 'Presidential republic',
   timezone: 'UTC+1 (WAT)',
-  gdp: 11302000000,
-  description: 'Chad is a landlocked country in north-central Africa. It is bordered by Libya, Sudan, Central African Republic, Cameroon, Nigeria, and Niger. Chad has diverse geography from desert in the north to tropical savanna in the south.'
+  gdp: 12280000000,
+  nationalDish: 'Boule',
+  description: 'A landlocked Central African country known for Lake Chad, diverse ethnic groups, and challenging economic conditions.'
 };

@@ -10,6 +10,7 @@ export const mali = {
   flag: '🇲🇱',
   government: 'Semi-presidential republic',
   timezone: 'UTC+0 (GMT)',
-  gdp: 17510000000,
-  description: 'Mali is a landlocked country in West Africa. It was the site of three great African empires: Ghana, Mali, and Songhai. Today, Mali is known for its rich cultural heritage, including music, art, and the historic city of Timbuktu, once a center of Islamic learning.'
+  gdp: 18750000000,
+  nationalDish: 'Jollof Rice',
+  description: 'A landlocked West African country known for its ancient empires, the historic city of Timbuktu, and rich musical traditions.'
 };

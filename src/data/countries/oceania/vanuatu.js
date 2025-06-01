@@ -10,6 +10,7 @@ export const vanuatu = {
   flag: '🇻🇺',
   government: 'Parliamentary Republic',
   timezone: 'UTC+11',
-  gdp: 946000000,
-  description: 'A Y-shaped archipelago of about 83 islands known for its pristine beaches, coral reefs, underwater caverns, and active volcanoes.'
+  gdp: 1050000000,
+  nationalDish: 'Lap Lap',
+  description: 'A Pacific archipelago known for its volcanoes, coral reefs, and diverse Melanesian cultures.'
 };

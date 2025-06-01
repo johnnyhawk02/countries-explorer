@@ -10,6 +10,7 @@ export const kiribati = {
   flag: '🇰🇮',
   government: 'Republic',
   timezone: 'UTC+12 to UTC+14',
-  gdp: 200000000,
-  description: 'An island nation in the Central Pacific, spread across 33 atolls and islands, and is the only country located in all four hemispheres.'
+  gdp: 250000000,
+  nationalDish: 'Palusami',
+  description: 'A Pacific island nation spread across 33 atolls, known for its marine protected areas and vulnerability to climate change.'
 };

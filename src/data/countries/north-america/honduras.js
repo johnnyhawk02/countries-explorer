@@ -10,6 +10,7 @@ export const honduras = {
   flag: '🇭🇳',
   government: 'Republic',
   timezone: 'UTC-6',
-  gdp: 28000000000,
-  description: 'Central American country with Caribbean and Pacific coastlines, rainforests, ancient Mayan ruins, and part of the Mesoamerican Barrier Reef.'
+  gdp: 28490000000,
+  nationalDish: 'Plato Típico',
+  description: 'A Central American country known for its Maya ruins at Copán, Caribbean coastline, and coffee production.'
 };

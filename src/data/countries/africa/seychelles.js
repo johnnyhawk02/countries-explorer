@@ -10,6 +10,7 @@ export const seychelles = {
   flag: '🇸🇨',
   government: 'Presidential republic',
   timezone: 'UTC+4',
-  gdp: 1700000000,
+  gdp: 1760000000,
+  nationalDish: 'Fish Curry',
   description: 'Seychelles is an archipelago of 115 islands in the Indian Ocean northeast of Madagascar. Known for pristine beaches, coral reefs, nature reserves, and luxury tourism.'
 };

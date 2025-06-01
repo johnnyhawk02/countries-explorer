@@ -10,6 +10,7 @@ export const liberia = {
   flag: '🇱🇷',
   government: 'Presidential republic',
   timezone: 'UTC+0',
-  gdp: 3200000000,
+  gdp: 3750000000,
+  nationalDish: 'Dumboy',
   description: 'Liberia is a West African country founded by freed American slaves in the 19th century. Known for its unique history, rubber plantations, and efforts to rebuild after civil conflicts.'
 };

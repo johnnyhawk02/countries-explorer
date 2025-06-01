@@ -10,6 +10,7 @@ export const paraguay = {
   flag: '🇵🇾',
   government: 'Republic',
   timezone: 'UTC-4',
-  gdp: 41700000000,
-  description: 'A landlocked country known as the "Heart of South America," with a blend of Spanish and indigenous Guaraní culture and language.'
+  gdp: 45300000000,
+  nationalDish: 'Sopa Paraguaya',
+  description: 'A landlocked South American country known for its Guaraní culture, Jesuit missions, and agricultural production.'
 };

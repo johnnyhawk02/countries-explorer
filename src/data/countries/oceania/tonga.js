@@ -10,6 +10,7 @@ export const tonga = {
   flag: '🇹🇴',
   government: 'Constitutional monarchy',
   timezone: 'UTC+13 (TOT)',
-  gdp: 480000000,
-  description: 'Tonga is a Polynesian kingdom consisting of 169 islands in the South Pacific Ocean. It is the only Pacific Island nation that was never fully colonized by a European power. Tonga is known for its rich cultural traditions, including traditional dance and handicrafts.'
+  gdp: 530000000,
+  nationalDish: 'Lu Pulu',
+  description: 'A Polynesian kingdom in the Pacific known for its traditional monarchy, coral reefs, and volcanic islands.'
 };

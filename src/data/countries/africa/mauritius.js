@@ -10,6 +10,7 @@ export const mauritius = {
   flag: '🇲🇺',
   government: 'Parliamentary republic',
   timezone: 'UTC+4',
-  gdp: 14000000000,
-  description: 'Mauritius is an island nation in the Indian Ocean known for its pristine beaches, luxury resorts, diverse culture, and successful economy based on tourism, textiles, and financial services.'
+  gdp: 14180000000,
+  nationalDish: 'Dholl Puri',
+  description: 'An island nation in the Indian Ocean known for its beaches, lagoons, reefs, and multicultural population.'
 };

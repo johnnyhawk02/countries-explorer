@@ -11,5 +11,6 @@ export const togo = {
   government: 'Presidential republic',
   timezone: 'UTC+0',
   gdp: 5500000000,
+  nationalDish: 'Fufu',
   description: 'Togo is a narrow West African country known for its palm-lined beaches, hilltop villages, and diverse culture. Famous for phosphate mining and traditional voodoo practices.'
 };

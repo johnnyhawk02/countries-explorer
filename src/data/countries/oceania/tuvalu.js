@@ -10,6 +10,7 @@ export const tuvalu = {
   flag: '🇹🇻',
   government: 'Parliamentary democracy under constitutional monarchy',
   timezone: 'UTC+12 (TVT)',
-  gdp: 63000000,
-  description: 'Tuvalu is a Polynesian island country located in the Pacific Ocean. It is the fourth-smallest country in the world by area and is particularly vulnerable to climate change and rising sea levels. Tuvalu consists of nine coral atolls.'
+  gdp: 64000000,
+  nationalDish: 'Pulaka',
+  description: 'One of the smallest countries in the world, a Pacific island nation threatened by rising sea levels.'
 };

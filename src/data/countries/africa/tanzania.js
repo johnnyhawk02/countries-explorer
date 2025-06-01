@@ -10,6 +10,7 @@ export const tanzania = {
   flag: '🇹🇿',
   government: 'Republic',
   timezone: 'UTC+3',
-  gdp: 67800000000,
-  description: 'Home to Mount Kilimanjaro, Africa\'s highest peak, the Serengeti National Park, and the tropical paradise of Zanzibar.'
+  gdp: 75720000000,
+  nationalDish: 'Ugali',
+  description: 'An East African country famous for Mount Kilimanjaro, Serengeti National Park, and the spice island of Zanzibar.'
 };

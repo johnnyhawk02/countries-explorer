@@ -10,6 +10,7 @@ export const suriname = {
   flag: '🇸🇷',
   government: 'Presidential Republic',
   timezone: 'UTC-3',
-  gdp: 3800000000,
-  description: 'Suriname is a small country on the northern coast of South America known for its Dutch colonial architecture, diverse culture, and pristine rainforests. It is the smallest sovereign state in South America and has significant bauxite reserves.'
+  gdp: 3680000000,
+  nationalDish: 'Pom',
+  description: 'A small South American country on the Atlantic coast, known for its Dutch colonial heritage and rainforest interior.'
 };

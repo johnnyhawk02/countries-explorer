@@ -10,6 +10,7 @@ export const somalia = {
   flag: '🇸🇴',
   government: 'Federal parliamentary republic',
   timezone: 'UTC+3',
-  gdp: 8000000000,
-  description: 'Somalia is located in the Horn of Africa with the longest coastline on the continent. Known for its maritime culture, ancient trading history, and strategic location.'
+  gdp: 7600000000,
+  nationalDish: 'Anjero',
+  description: 'A Horn of Africa country known for its long coastline, nomadic heritage, and strategic location along major shipping lanes.'
 };

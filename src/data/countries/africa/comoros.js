@@ -10,6 +10,7 @@ export const comoros = {
   flag: '🇰🇲',
   government: 'Federal presidential republic',
   timezone: 'EAT (UTC+3)',
-  gdp: 1.3, // billion USD (2023 est.)
-  description: 'Comoros is an island nation in the Indian Ocean, located between Madagascar and the coast of Mozambique. Known as the "Perfume Islands" for its production of ylang-ylang, vanilla, and other spices. The country consists of three main islands and has a unique blend of African, Arab, and French cultures. Islam is the predominant religion, and the country is known for its beautiful beaches and volcanic landscapes.'
+  gdp: 1350000000,
+  nationalDish: 'Langouste à la Vanille',
+  description: 'An archipelago nation between Madagascar and Mozambique, known for vanilla, ylang-ylang, and volcanic islands.'
 };

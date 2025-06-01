@@ -10,6 +10,7 @@ export const sudan = {
   flag: '🇸🇩',
   government: 'Federal provisional government',
   timezone: 'UTC+2 (CAT)',
-  gdp: 34326000000,
-  description: 'Sudan is a country in Northeast Africa. It is the third-largest country in Africa by area. Sudan has a rich history as the site of ancient Nubian kingdoms and has significant archaeological sites. The country has faced various political challenges and regional conflicts.'
+  gdp: 34320000000,
+  nationalDish: 'Ful Medames',
+  description: 'A Northeast African country known for its ancient Nubian civilization, the confluence of the Blue and White Nile rivers.'
 };

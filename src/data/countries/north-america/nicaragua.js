@@ -10,6 +10,7 @@ export const nicaragua = {
   flag: '🇳🇮',
   government: 'Presidential Republic',
   timezone: 'UTC-6',
-  gdp: 13800000000,
-  description: 'Nicaragua is the largest country in Central America, known for its dramatic terrain of lakes, volcanoes, and beaches. It features colonial architecture, diverse ecosystems, and is famous for Lake Nicaragua and the Masaya Volcano.'
+  gdp: 15200000000,
+  nationalDish: 'Gallo Pinto',
+  description: 'The largest Central American country, known for its lakes, volcanoes, and colonial cities like Granada and León.'
 };

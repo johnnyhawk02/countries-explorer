@@ -10,6 +10,7 @@ export const eritrea = {
   flag: '🇪🇷',
   government: 'Presidential republic',
   timezone: 'EAT (UTC+3)',
-  gdp: 2.1, // billion USD (2023 est.)
-  description: 'Eritrea is a country in the Horn of Africa, known for its Red Sea coastline and distinctive Art Deco architecture in the capital Asmara, a UNESCO World Heritage site. The country gained independence from Ethiopia in 1993 after a long struggle. Eritrea has a diverse population with nine recognized ethnic groups and a unique cultural blend. The country is known for its coffee culture and traditional highland villages.'
+  gdp: 2600000000,
+  nationalDish: 'Zigni',
+  description: 'A Horn of Africa country known for its diverse ethnic groups, Red Sea coastline, and Italian colonial architecture.'
 };

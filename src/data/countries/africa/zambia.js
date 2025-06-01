@@ -10,6 +10,7 @@ export const zambia = {
   flag: '🇿🇲',
   government: 'Presidential Republic',
   timezone: 'UTC+2',
-  gdp: 23000000000,
-  description: 'Zambia is a landlocked country in southern Africa known for its vast copper mines, Victoria Falls, and diverse wildlife. The country is home to 20 national parks and the source of the Zambezi River.'
+  gdp: 29150000000,
+  nationalDish: 'Nshima',
+  description: 'A landlocked southern African country known for Victoria Falls, copper mining, and diverse wildlife in its national parks.'
 };

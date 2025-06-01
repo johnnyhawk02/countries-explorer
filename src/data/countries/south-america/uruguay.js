@@ -10,6 +10,7 @@ export const uruguay = {
   flag: '🇺🇾',
   government: 'Republic',
   timezone: 'UTC-3',
-  gdp: 65000000000,
-  description: 'A country known for its laid-back culture, progressive policies, pristine beaches along the Atlantic coast, and love for soccer.'
+  gdp: 63460000000,
+  nationalDish: 'Chivito',
+  description: 'A small South American country known for its beaches, progressive social policies, and beef production.'
 };

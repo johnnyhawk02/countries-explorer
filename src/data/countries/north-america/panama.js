@@ -10,6 +10,7 @@ export const panama = {
   flag: '🇵🇦',
   government: 'Republic',
   timezone: 'UTC-5',
-  gdp: 75500000000,
-  description: 'Famous for the Panama Canal connecting the Atlantic and Pacific Oceans, with tropical rainforests, diverse wildlife, and beautiful beaches.'
+  gdp: 75420000000,
+  nationalDish: 'Sancocho',
+  description: 'A transcontinental country connecting North and South America, famous for the Panama Canal and its biodiversity.'
 };

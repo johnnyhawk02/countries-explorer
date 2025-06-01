@@ -10,6 +10,7 @@ export const angola = {
   flag: '🇦🇴',
   government: 'Presidential republic',
   timezone: 'UTC+1 (WAT)',
-  gdp: 94635000000,
-  description: 'Angola is a country on the west coast of Southern Africa. It is the second-largest Portuguese-speaking country in both total area and population, and is the seventh-largest country in Africa. Angola is rich in natural resources, particularly oil and diamonds.'
+  gdp: 124200000000,
+  nationalDish: 'Muamba de Galinha',
+  description: 'A southwestern African country known for its Atlantic coastline, oil wealth, and Portuguese colonial heritage.'
 };

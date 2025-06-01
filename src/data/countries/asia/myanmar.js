@@ -10,6 +10,7 @@ export const myanmar = {
   flag: '🇲🇲',
   government: 'Military Junta',
   timezone: 'UTC+6:30',
-  gdp: 76000000000,
-  description: 'Myanmar, formerly known as Burma, is a Southeast Asian country known for its Buddhist temples, diverse ethnic groups, and rich cultural heritage. It features thousands of pagodas and is famous for the ancient city of Bagan.'
+  gdp: 76280000000,
+  nationalDish: 'Mohinga',
+  description: 'A Southeast Asian country known for its ancient Buddhist temples, diverse ethnic groups, and the golden Shwedagon Pagoda.'
 };

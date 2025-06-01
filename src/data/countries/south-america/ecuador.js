@@ -10,6 +10,7 @@ export const ecuador = {
   flag: '🇪🇨',
   government: 'Republic',
   timezone: 'UTC-5',
-  gdp: 115000000000,
-  description: 'Named for the equator running through it, home to the Galápagos Islands, diverse ecosystems from Andean highlands to Amazon rainforest.'
+  gdp: 124200000000,
+  nationalDish: 'Ceviche',
+  description: 'A country straddling the equator on South America\'s west coast, known for the Galápagos Islands and diverse ecosystems.'
 };

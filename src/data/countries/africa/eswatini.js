@@ -10,6 +10,7 @@ export const eswatini = {
   flag: '🇸🇿',
   government: 'Absolute monarchy',
   timezone: 'UTC+2',
-  gdp: 4700000000,
-  description: 'Eswatini, formerly known as Swaziland, is a landlocked kingdom in Southern Africa. Known for its traditional culture, wildlife reserves, and being one of the last absolute monarchies in the world.'
+  gdp: 4410000000,
+  nationalDish: 'Sishwala',
+  description: 'A small landlocked kingdom in southern Africa, known for its traditional monarchy, wildlife reserves, and cultural festivals.'
 };

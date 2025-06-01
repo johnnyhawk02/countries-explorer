@@ -10,6 +10,7 @@ export const uganda = {
   flag: '🇺🇬',
   government: 'Republic',
   timezone: 'UTC+3',
-  gdp: 40500000000,
-  description: 'Known as the "Pearl of Africa" for its stunning natural beauty, diverse wildlife including mountain gorillas, and the source of the Nile River.'
+  gdp: 47730000000,
+  nationalDish: 'Matooke',
+  description: 'A landlocked East African country known for its diverse wildlife, including mountain gorillas in Bwindi Impenetrable Forest.'
 };

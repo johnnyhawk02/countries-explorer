@@ -10,6 +10,7 @@ export const elSalvador = {
   flag: '🇸🇻',
   government: 'Presidential Republic',
   timezone: 'UTC-6',
-  gdp: 27000000000,
-  description: 'El Salvador is the smallest country in Central America, known for its Pacific Ocean beaches, surf spots, and mountainous landscape. It is famous for its coffee production and has recently adopted Bitcoin as legal tender.'
+  gdp: 33480000000,
+  nationalDish: 'Pupusas',
+  description: 'The smallest and most densely populated Central American country, known for its volcanoes, coffee, and pupusas.'
 };

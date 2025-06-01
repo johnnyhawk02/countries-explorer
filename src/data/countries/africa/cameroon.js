@@ -10,6 +10,7 @@ export const cameroon = {
   flag: '🇨🇲',
   government: 'Republic',
   timezone: 'UTC+1',
-  gdp: 44000000000,
-  description: 'Often called "Africa in miniature" due to its geographical and cultural diversity, from beaches to mountains, deserts, and rainforests.'
+  gdp: 47350000000,
+  nationalDish: 'Ndolé',
+  description: 'A Central African country known as "Africa in miniature" for its diverse geography, from coastlines to deserts and rainforests.'
 };

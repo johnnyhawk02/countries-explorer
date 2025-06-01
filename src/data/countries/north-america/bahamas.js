@@ -10,6 +10,7 @@ export const bahamas = {
   flag: '🇧🇸',
   government: 'Parliamentary democracy under constitutional monarchy',
   timezone: 'UTC-5 (EST)',
-  gdp: 12827000000,
-  description: 'The Bahamas is an archipelagic state in the Caribbean, consisting of more than 3,000 islands and cays. Known for its crystal-clear waters, coral reefs, and beautiful beaches, it is a major tourist destination and financial center in the Caribbean.'
+  gdp: 14840000000,
+  nationalDish: 'Conch Fritters',
+  description: 'An archipelago of 700 islands in the Atlantic Ocean, known for its crystal-clear waters, beaches, and offshore banking.'
 };

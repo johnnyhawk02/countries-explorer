@@ -10,6 +10,7 @@ export const guatemala = {
   flag: '🇬🇹',
   government: 'Republic',
   timezone: 'UTC-6',
-  gdp: 85000000000,
-  description: 'Known for its ancient Mayan sites, volcanic landscapes, colonial architecture, and vibrant indigenous cultures and traditions.'
+  gdp: 95740000000,
+  nationalDish: 'Pepián',
+  description: 'A Central American country known for its Maya heritage, colonial cities, volcanoes, and Lake Atitlán.'
 };

@@ -10,6 +10,7 @@ export const namibia = {
   flag: '🇳🇦',
   government: 'Presidential Republic',
   timezone: 'UTC+2',
-  gdp: 12400000000,
-  description: 'Namibia is a country in southwest Africa known for its dramatic landscapes including the Namib Desert, Skeleton Coast, and Fish River Canyon. It has a rich colonial history and is famous for its wildlife conservation efforts.'
+  gdp: 14520000000,
+  nationalDish: 'Potjiekos',
+  description: 'A southern African country known for the Namib Desert, Sossusvlei dunes, and diamond mining along the Skeleton Coast.'
 };

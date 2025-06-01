@@ -11,5 +11,6 @@ export const india = {
   government: 'Federal Republic',
   timezone: 'UTC+5:30',
   gdp: 2875000000000,
+  nationalDish: 'Biryani',
   description: 'The world\'s largest democracy with incredible diversity in languages, cultures, religions, and landscapes.'
 };

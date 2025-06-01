@@ -11,5 +11,6 @@ export const mexico = {
   government: 'Federal Republic',
   timezone: 'UTC-6 to UTC-8',
   gdp: 1293000000000,
+  nationalDish: 'Tacos',
   description: 'A country rich in ancient civilizations, vibrant culture, and diverse landscapes from deserts to tropical beaches.'
 };

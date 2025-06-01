@@ -11,5 +11,6 @@ export const japan = {
   government: 'Constitutional Monarchy',
   timezone: 'UTC+9',
   gdp: 4231000000000,
+  nationalDish: 'Sushi',
   description: 'An island nation known for its unique blend of ancient traditions and cutting-edge technology, anime, and distinctive culture.'
 };

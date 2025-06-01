@@ -11,5 +11,6 @@ export const france = {
   government: 'Republic',
   timezone: 'UTC+1',
   gdp: 2603000000000,
+  nationalDish: 'Coq au Vin',
   description: 'Known for its art, cuisine, fashion, and cultural influence worldwide. Home to iconic landmarks like the Eiffel Tower and Louvre.'
 };

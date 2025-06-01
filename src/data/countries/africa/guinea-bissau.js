@@ -11,5 +11,6 @@ export const guineaBissau = {
   government: 'Semi-presidential republic',
   timezone: 'UTC+0',
   gdp: 1500000000,
+  nationalDish: 'Jollof Rice',
   description: 'Guinea-Bissau is a West African country known for its tropical climate, diverse wildlife, and complex political history. The country features the Bijagós Islands archipelago and cashew nut production.'
 };

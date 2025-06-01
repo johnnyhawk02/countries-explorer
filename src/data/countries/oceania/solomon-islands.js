@@ -11,5 +11,6 @@ export const solomonIslands = {
   government: 'Constitutional Monarchy',
   timezone: 'UTC+11',
   gdp: 1610000000,
+  nationalDish: 'Poi',
   description: 'A nation comprising hundreds of islands in the South Pacific, known for WWII history, traditional culture, and incredible marine diversity.'
 };

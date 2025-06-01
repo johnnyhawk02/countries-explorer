@@ -11,5 +11,6 @@ export const taiwan = {
   government: 'Semi-Presidential Republic',
   timezone: 'UTC+8',
   gdp: 668000000000,
+  nationalDish: 'Beef Noodle Soup',
   description: 'Taiwan is an island nation in East Asia known for its technological innovation, vibrant night markets, and beautiful mountain scenery. As one of the "Four Asian Tigers," it has a highly developed economy focused on electronics manufacturing and international trade.'
 };

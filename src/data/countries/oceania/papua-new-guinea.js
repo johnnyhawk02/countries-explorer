@@ -11,5 +11,6 @@ export const papuaNewGuinea = {
   government: 'Parliamentary Democracy',
   timezone: 'UTC+10',
   gdp: 25000000000,
+  nationalDish: 'Mumu',
   description: 'One of the world\'s most culturally diverse countries with over 800 languages, known for tribal cultures, rainforests, and diving sites.'
 };

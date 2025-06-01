@@ -11,5 +11,6 @@ export const sierraLeone = {
   government: 'Presidential republic',
   timezone: 'UTC+0',
   gdp: 4000000000,
+  nationalDish: 'Jollof Rice',
   description: 'Sierra Leone is a West African country known for its diamond mines, pristine beaches, and recovery from civil conflict. Famous for its cultural diversity and natural beauty.'
 };

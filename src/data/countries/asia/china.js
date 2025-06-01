@@ -12,5 +12,6 @@ export const china = {
   timezone: 'UTC+8',
   gdp: 14723000000000,
   nationalDish: 'Peking Duck',
+  topAttraction: 'Great Wall of China',
   description: 'The world\'s most populous country with a rich history spanning thousands of years and rapid modern economic development.'
 };

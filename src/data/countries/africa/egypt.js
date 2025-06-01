@@ -12,5 +12,6 @@ export const egypt = {
   timezone: 'UTC+2',
   gdp: 374000000000,
   nationalDish: 'Koshari',
+  topAttraction: 'Pyramids of Giza',
   description: 'Home to ancient wonders like the Pyramids and Sphinx, with a rich history spanning thousands of years along the life-giving Nile River.'
 };

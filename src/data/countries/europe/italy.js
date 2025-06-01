@@ -12,5 +12,6 @@ export const italy = {
   timezone: 'UTC+1',
   gdp: 2001000000000,
   nationalDish: 'Pasta e Pizza',
+  topAttraction: 'Colosseum',
   description: 'Boot-shaped peninsula renowned for its art, architecture, cuisine, and historic cities like Rome, Florence, and Venice.'
 };

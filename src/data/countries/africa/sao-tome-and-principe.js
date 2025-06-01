@@ -11,5 +11,6 @@ export const saoTomeAndPrincipe = {
   government: 'Semi-presidential republic',
   timezone: 'UTC+0',
   gdp: 470000000,
+  nationalDish: 'Calulu',
   description: 'São Tomé and Príncipe is an island nation in the Gulf of Guinea off the western coast of Central Africa. Known for cocoa production, pristine beaches, and biodiversity.'
 };

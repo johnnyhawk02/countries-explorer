@@ -101,6 +101,13 @@ const CountryDetailModal = ({ country, isOpen, onClose }) => {
                   </div>
                 )}
                 
+                {country.topAttraction && (
+                  <div className="flex justify-between">
+                    <span className="text-gray-600">Top Attraction:</span>
+                    <span className="font-medium">{country.topAttraction}</span>
+                  </div>
+                )}
+                
                 <div>
                   <span className="text-gray-600">Languages:</span>
                   <div className="mt-1">

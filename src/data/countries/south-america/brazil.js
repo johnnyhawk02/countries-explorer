@@ -12,5 +12,6 @@ export const brazil = {
   timezone: 'UTC-2 to UTC-5',
   gdp: 1449000000000,
   nationalDish: 'Feijoada',
+  topAttraction: 'Christ the Redeemer',
   description: 'The largest country in South America, known for its Amazon rainforest, carnival celebrations, and diverse culture.'
 };

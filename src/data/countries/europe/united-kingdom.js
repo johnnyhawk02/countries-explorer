@@ -12,5 +12,6 @@ export const unitedKingdom = {
   timezone: 'UTC+0',
   gdp: 2938000000000,
   nationalDish: 'Fish and Chips',
+  topAttraction: 'Big Ben',
   description: 'A historic island nation known for its influence on global culture, language, and institutions.'
 };

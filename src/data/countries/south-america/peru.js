@@ -12,5 +12,6 @@ export const peru = {
   timezone: 'UTC-5',
   gdp: 212000000000,
   nationalDish: 'Lomo Saltado',
+  topAttraction: 'Machu Picchu',
   description: 'Home to Machu Picchu and the ancient Inca civilization, with diverse geography from coast to Amazon.'
 };

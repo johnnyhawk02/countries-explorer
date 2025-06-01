@@ -12,5 +12,6 @@ export const france = {
   timezone: 'UTC+1',
   gdp: 2603000000000,
   nationalDish: 'Coq au Vin',
+  topAttraction: 'Eiffel Tower',
   description: 'Known for its art, cuisine, fashion, and cultural influence worldwide. Home to iconic landmarks like the Eiffel Tower and Louvre.'
 };

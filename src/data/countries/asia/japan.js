@@ -12,5 +12,6 @@ export const japan = {
   timezone: 'UTC+9',
   gdp: 4231000000000,
   nationalDish: 'Sushi',
+  topAttraction: 'Mount Fuji',
   description: 'An island nation known for its unique blend of ancient traditions and cutting-edge technology, anime, and distinctive culture.'
 };

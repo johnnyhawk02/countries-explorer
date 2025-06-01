@@ -12,5 +12,6 @@ export const trinidadAndTobago = {
   timezone: 'UTC-4 (AST)',
   gdp: 21520000000,
   nationalDish: 'Doubles',
+  topAttraction: 'Maracas Beach',
   description: 'A twin-island nation known for its carnival, calypso music, steel drum bands, and diverse cultural heritage.'
 };

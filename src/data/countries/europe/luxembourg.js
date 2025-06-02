@@ -12,5 +12,6 @@ export const luxembourg = {
   timezone: 'CET (UTC+1)',
   gdp: 74000000000,
   nationalDish: 'Goulash',
+  neighboringCountries: ['France', 'Germany', 'Belgium'],
   description: 'The world\'s richest country per capita, known for its banking and steel industry.'
 };

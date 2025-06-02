@@ -10,7 +10,9 @@ export const dominicanRepublic = {
   flag: '🇩🇴',
   government: 'Republic',
   timezone: 'UTC-4',
-  gdp: 113000000000,
-  nationalDish: 'La Bandera',
-  description: 'Shares the island of Hispaniola with Haiti, known for its beaches, resorts, merengue music, and baseball.'
+  gdp: 89000000000,
+  nationalDish: 'Mangu',
+  topAttraction: 'Colonial Zone Santo Domingo',
+  neighboringCountries: ['Haiti'],
+  description: 'Known for its beautiful beaches, merengue music, and colonial history.'
 };

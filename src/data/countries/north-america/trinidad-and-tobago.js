@@ -13,5 +13,6 @@ export const trinidadAndTobago = {
   gdp: 21520000000,
   nationalDish: 'Doubles',
   topAttraction: 'Maracas Beach',
+  neighboringCountries: [], // Island nation with no land borders
   description: 'A twin-island nation known for its carnival, calypso music, steel drum bands, and diverse cultural heritage.'
 };

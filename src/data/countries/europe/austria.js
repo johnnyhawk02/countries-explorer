@@ -10,7 +10,9 @@ export const austria = {
   flag: '🇦🇹',
   government: 'Federal Republic',
   timezone: 'UTC+1',
-  gdp: 429000000000,
+  gdp: 190000000000,
   nationalDish: 'Wiener Schnitzel',
-  description: 'Known for its classical music heritage, Alpine landscapes, and cultural contributions to arts and sciences.'
+  topAttraction: 'Salzburg Historic Center',
+  neighboringCountries: ['Germany', 'Czech Republic', 'Slovakia', 'Hungary', 'Slovenia', 'Italy', 'Switzerland', 'Liechtenstein'],
+  description: 'Known for its Alpine landscapes, classical music heritage, and elegant cities like Vienna and Salzburg.'
 };

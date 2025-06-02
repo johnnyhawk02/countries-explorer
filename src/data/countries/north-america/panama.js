@@ -12,5 +12,6 @@ export const panama = {
   timezone: 'UTC-5',
   gdp: 75420000000,
   nationalDish: 'Sancocho',
+  neighboringCountries: ['Costa Rica', 'Colombia'],
   description: 'A transcontinental country connecting North and South America, famous for the Panama Canal and its biodiversity.'
 };

@@ -10,7 +10,8 @@ export const israel = {
   flag: '🇮🇱',
   government: 'Parliamentary Democracy',
   timezone: 'UTC+2',
-  gdp: 481000000000,
+  gdp: 431000000000,
   nationalDish: 'Falafel',
-  description: 'A technologically advanced country in the Middle East, known for its innovation and historical significance.'
+  topAttraction: 'Western Wall',
+  description: 'A historic land with significant religious and cultural importance.'
 };

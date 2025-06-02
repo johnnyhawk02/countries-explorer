@@ -10,7 +10,8 @@ export const angola = {
   flag: '🇦🇴',
   government: 'Presidential republic',
   timezone: 'UTC+1 (WAT)',
-  gdp: 124200000000,
+  gdp: 95000000000,
   nationalDish: 'Muamba de Galinha',
-  description: 'A southwestern African country known for its Atlantic coastline, oil wealth, and Portuguese colonial heritage.'
+  topAttraction: 'Kalandula Falls',
+  description: 'Rich in oil and diamonds, with diverse landscapes from Atlantic coastline to inland highlands.'
 };

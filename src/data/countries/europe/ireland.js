@@ -12,5 +12,6 @@ export const ireland = {
   timezone: 'UTC+0',
   gdp: 450000000000,
   nationalDish: 'Irish Stew',
+  neighboringCountries: ['United Kingdom'],
   description: 'Known for its green landscapes, rich literary tradition, and friendly culture.'
 };

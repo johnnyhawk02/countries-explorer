@@ -10,7 +10,9 @@ export const guatemala = {
   flag: '🇬🇹',
   government: 'Republic',
   timezone: 'UTC-6',
-  gdp: 95740000000,
+  gdp: 78000000000,
   nationalDish: 'Pepián',
-  description: 'A Central American country known for its Maya heritage, colonial cities, volcanoes, and Lake Atitlán.'
+  topAttraction: 'Tikal National Park',
+  neighboringCountries: ['Mexico', 'Belize', 'El Salvador', 'Honduras'],
+  description: 'Known for its ancient Mayan ruins, colorful markets, and volcanic landscapes.'
 };

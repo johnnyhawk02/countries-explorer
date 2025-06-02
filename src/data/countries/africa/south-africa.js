@@ -12,5 +12,7 @@ export const southAfrica = {
   timezone: 'UTC+2',
   gdp: 419000000000,
   nationalDish: 'Bobotie',
+  topAttraction: 'Table Mountain',
+  neighboringCountries: ['Namibia', 'Botswana', 'Zimbabwe', 'Mozambique', 'Eswatini', 'Lesotho'],
   description: 'Known for its diverse cultures, wildlife, and overcoming apartheid to become a democracy.'
 };

@@ -10,7 +10,9 @@ export const bulgaria = {
   flag: '🇧🇬',
   government: 'Parliamentary republic',
   timezone: 'UTC+2 (EET)',
-  gdp: 87000000000,
+  gdp: 69000000000,
   nationalDish: 'Shopska Salad',
-  description: 'Known for its rose oil, yogurt, and rich cultural heritage spanning ancient Thracian and Ottoman influences.'
+  topAttraction: 'Rila Monastery',
+  neighboringCountries: ['Romania', 'Serbia', 'North Macedonia', 'Greece', 'Turkey'],
+  description: 'Known for its rose oil production, ancient Thracian heritage, and Orthodox monasteries.'
 };

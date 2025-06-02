@@ -12,5 +12,6 @@ export const latvia = {
   timezone: 'UTC+2 (EET)',
   gdp: 40000000000,
   nationalDish: 'Rupjmaize',
+  neighboringCountries: ['Estonia', 'Russia', 'Belarus', 'Lithuania'],
   description: 'Known for its Art Nouveau architecture in Riga and beautiful Baltic coastline.'
 };

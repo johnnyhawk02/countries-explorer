@@ -10,7 +10,8 @@ export const tanzania = {
   flag: '🇹🇿',
   government: 'Republic',
   timezone: 'UTC+3',
-  gdp: 75720000000,
-  nationalDish: 'Ugali',
-  description: 'An East African country famous for Mount Kilimanjaro, Serengeti National Park, and the spice island of Zanzibar.'
+  gdp: 48000000000,
+  nationalDish: 'Nyama Choma',
+  topAttraction: 'Serengeti National Park',
+  description: 'Home to Mount Kilimanjaro, Serengeti wildlife, and diverse cultures including the Maasai.'
 };

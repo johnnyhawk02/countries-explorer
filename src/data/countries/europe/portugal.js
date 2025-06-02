@@ -10,7 +10,9 @@ export const portugal = {
   flag: '🇵🇹',
   government: 'Republic',
   timezone: 'UTC+0',
-  gdp: 239000000000,
+  gdp: 255000000000,
   nationalDish: 'Pastéis de Nata',
-  description: 'A southern European country known for its beautiful beaches, historic cities, Mediterranean cuisine, and port wine production.'
+  topAttraction: 'Pena Palace',
+  neighboringCountries: ['Spain'],
+  description: 'Known for its exploration history, beautiful coastline, and distinctive culture.'
 };

@@ -10,7 +10,9 @@ export const southKorea = {
   flag: '🇰🇷',
   government: 'Republic',
   timezone: 'UTC+9',
-  gdp: 761000000000,
+  gdp: 1634000000000,
   nationalDish: 'Kimchi',
-  description: 'Known for its technological advancement, K-pop culture, and rich traditional heritage.'
+  topAttraction: 'Gyeongbokgung Palace',
+  neighboringCountries: ['North Korea'],
+  description: 'Known for its technology, K-pop culture, and rapid economic development.'
 };

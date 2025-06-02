@@ -12,5 +12,6 @@ export const malta = {
   timezone: 'CET (UTC+1)',
   gdp: 16000000000,
   nationalDish: 'Fenkata',
+  neighboringCountries: [], // Island nation with no land borders
   description: 'A small Mediterranean island nation known for its historic temples and crystal-clear waters.'
 };

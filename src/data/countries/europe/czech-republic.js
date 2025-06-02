@@ -10,7 +10,9 @@ export const czech = {
   flag: '🇨🇿',
   government: 'Parliamentary Republic',
   timezone: 'UTC+1',
-  gdp: 281000000000,
+  gdp: 246000000000,
   nationalDish: 'Goulash',
-  description: 'Known for its beautiful capital Prague, beer culture, and well-preserved medieval architecture.'
+  topAttraction: 'Prague Castle',
+  neighboringCountries: ['Germany', 'Austria', 'Slovakia', 'Poland'],
+  description: 'Known for its beautiful medieval cities, particularly Prague, and rich cultural heritage.'
 };

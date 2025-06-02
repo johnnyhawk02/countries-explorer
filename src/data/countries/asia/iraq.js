@@ -12,5 +12,6 @@ export const iraq = {
   timezone: 'UTC+3 (AST)',
   gdp: 230000000000,
   nationalDish: 'Masgouf',
+  neighboringCountries: ['Turkey', 'Iran', 'Kuwait', 'Saudi Arabia', 'Jordan', 'Syria'],
   description: 'Known for its ancient Mesopotamian heritage and oil reserves.'
 };

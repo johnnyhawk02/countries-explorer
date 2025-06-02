@@ -10,7 +10,9 @@ export const bosnia = {
   flag: '🇧🇦',
   government: 'Federal parliamentary republic',
   timezone: 'CET (UTC+1)',
-  gdp: 22000000000,
+  gdp: 21000000000,
   nationalDish: 'Ćevapi',
-  description: 'Known for its complex history, beautiful landscapes, and cultural diversity.'
+  topAttraction: 'Stari Most Bridge',
+  neighboringCountries: ['Croatia', 'Serbia', 'Montenegro'],
+  description: 'Known for its multicultural heritage and the historic bridge of Mostar.'
 };

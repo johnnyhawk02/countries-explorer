@@ -12,5 +12,6 @@ export const morocco = {
   timezone: 'UTC+1',
   gdp: 174000000000,
   nationalDish: 'Tagine',
+  topAttraction: 'Marrakech Medina',
   description: 'Known for its imperial cities, Sahara desert, Atlas mountains, and rich cultural heritage.'
 };

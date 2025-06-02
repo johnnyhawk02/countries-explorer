@@ -12,5 +12,6 @@ export const nepal = {
   timezone: 'UTC+5:45 (NPT)',
   gdp: 416000000000,
   nationalDish: 'Gundruk',
+  neighboringCountries: ['China', 'India'],
   description: 'Home to Mount Everest and known for its mountain culture and Hindu and Buddhist heritage.'
 };

@@ -12,5 +12,6 @@ export const kenya = {
   timezone: 'UTC+3',
   gdp: 109000000000,
   nationalDish: 'Ugali',
+  topAttraction: 'Masai Mara',
   description: 'Known for its wildlife, including the Great Migration, and Mount Kilimanjaro.'
 };

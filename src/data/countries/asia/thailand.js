@@ -12,5 +12,7 @@ export const thailand = {
   timezone: 'UTC+7',
   gdp: 543000000000,
   nationalDish: 'Pad Thai',
+  topAttraction: 'Grand Palace Bangkok',
+  neighboringCountries: ['Myanmar', 'Laos', 'Cambodia', 'Malaysia'],
   description: 'Known as the "Land of Smiles," famous for its temples, beaches, cuisine, and rich cultural traditions.'
 };

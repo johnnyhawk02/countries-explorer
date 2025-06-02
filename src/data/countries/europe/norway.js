@@ -12,5 +12,6 @@ export const norway = {
   timezone: 'UTC+1',
   gdp: 398000000000,
   nationalDish: 'Lutefisk',
+  neighboringCountries: ['Sweden', 'Finland', 'Russia'],
   description: 'Known for its fjords, midnight sun, Northern Lights, and oil wealth.'
 };

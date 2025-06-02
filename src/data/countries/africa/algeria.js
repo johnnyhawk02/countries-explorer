@@ -10,7 +10,8 @@ export const algeria = {
   flag: '🇩🇿',
   government: 'Republic',
   timezone: 'UTC+1',
-  gdp: 187800000000,
+  gdp: 172000000000,
   nationalDish: 'Couscous',
-  description: 'The largest country in Africa, known for its Sahara desert landscape, Mediterranean coastline, and ancient Roman ruins.'
+  topAttraction: 'Sahara Desert',
+  description: 'The largest country in Africa, known for its vast Sahara desert and Mediterranean coastline.'
 };

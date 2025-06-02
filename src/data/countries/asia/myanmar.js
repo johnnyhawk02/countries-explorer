@@ -12,5 +12,6 @@ export const myanmar = {
   timezone: 'UTC+6:30',
   gdp: 76280000000,
   nationalDish: 'Mohinga',
+  neighboringCountries: ['China', 'Laos', 'Thailand', 'India', 'Bangladesh'],
   description: 'A Southeast Asian country known for its ancient Buddhist temples, diverse ethnic groups, and the golden Shwedagon Pagoda.'
 };

@@ -10,7 +10,9 @@ export const albania = {
   flag: '🇦🇱',
   government: 'Parliamentary republic',
   timezone: 'UTC+1 (CET)',
-  gdp: 13000000000,
-  nationalDish: 'Tavë Kosi',
-  description: 'Known for its mountainous landscape, Mediterranean and Balkan cultural influences.'
+  gdp: 15000000000,
+  nationalDish: 'Byrek',
+  topAttraction: 'Albanian Riviera',
+  neighboringCountries: ['Montenegro', 'Serbia', 'North Macedonia', 'Greece'],
+  description: 'Known for its stunning Adriatic coastline, mountainous landscapes, and ancient castles.'
 };

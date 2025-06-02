@@ -12,5 +12,6 @@ export const elSalvador = {
   timezone: 'UTC-6',
   gdp: 33480000000,
   nationalDish: 'Pupusas',
+  neighboringCountries: ['Guatemala', 'Honduras'],
   description: 'The smallest and most densely populated Central American country, known for its volcanoes, coffee, and pupusas.'
 };

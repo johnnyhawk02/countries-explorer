@@ -12,5 +12,6 @@ export const vaticanCity = {
   timezone: 'UTC+1',
   gdp: 18000000,
   nationalDish: 'Fettuccine alla Papalina',
+  neighboringCountries: ['Italy'],
   description: 'The world\'s smallest country, home to the Pope and the Catholic Church\'s headquarters.'
 };

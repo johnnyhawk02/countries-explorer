@@ -12,5 +12,6 @@ export const iran = {
   timezone: 'UTC+3:30 (IRST)',
   gdp: 507000000000,
   nationalDish: 'Kabuli Pulao',
+  neighboringCountries: ['Turkey', 'Armenia', 'Azerbaijan', 'Turkmenistan', 'Afghanistan', 'Pakistan', 'Iraq'],
   description: 'A landlocked country known for its ancient Persian heritage and saffron.'
 };

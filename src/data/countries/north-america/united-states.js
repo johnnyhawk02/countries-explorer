@@ -13,5 +13,6 @@ export const unitedStates = {
   gdp: 23315000000000,
   nationalDish: 'Hamburger',
   topAttraction: 'Grand Canyon',
+  neighboringCountries: ['Canada', 'Mexico'],
   description: 'A federal republic comprising 50 states, known for its economic power, cultural influence, and diverse geography from coast to coast.'
 };

@@ -12,5 +12,6 @@ export const liechtenstein = {
   timezone: 'CET (UTC+1)',
   gdp: 200000000,
   nationalDish: 'Käsknöpfle',
+  neighboringCountries: ['Austria', 'Switzerland'],
   description: 'A tiny Alpine principality between Austria and Switzerland.'
 };

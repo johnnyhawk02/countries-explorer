@@ -12,5 +12,6 @@ export const slovenia = {
   timezone: 'UTC+1 (CET)',
   gdp: 58000000000,
   nationalDish: 'Kranjska Klobasa',
+  neighboringCountries: ['Austria', 'Italy', 'Hungary', 'Croatia'],
   description: 'A small but beautiful country known for its stunning alpine landscapes and Lake Bled.'
 };

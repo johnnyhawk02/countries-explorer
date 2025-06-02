@@ -12,5 +12,6 @@ export const nicaragua = {
   timezone: 'UTC-6',
   gdp: 15200000000,
   nationalDish: 'Gallo Pinto',
+  neighboringCountries: ['Honduras', 'Costa Rica'],
   description: 'The largest Central American country, known for its lakes, volcanoes, and colonial cities like Granada and León.'
 };

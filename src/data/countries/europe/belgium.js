@@ -10,7 +10,9 @@ export const belgium = {
   flag: '🇧🇪',
   government: 'Federal Parliamentary Constitutional Monarchy',
   timezone: 'UTC+1',
-  gdp: 515000000000,
+  gdp: 508000000000,
   nationalDish: 'Moules-frites',
-  description: 'Known for its medieval cities, Renaissance architecture, chocolates, waffles, and being the EU headquarters.'
+  topAttraction: 'Grand Place Brussels',
+  neighboringCountries: ['France', 'Germany', 'Luxembourg', 'Netherlands'],
+  description: 'Known for its medieval cities, Renaissance architecture, chocolate, and beer.'
 };

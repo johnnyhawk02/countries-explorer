@@ -10,7 +10,9 @@ export const belize = {
   flag: '🇧🇿',
   government: 'Parliamentary Constitutional Monarchy',
   timezone: 'UTC-6',
-  gdp: 1900000000,
+  gdp: 2000000000,
   nationalDish: 'Rice and Beans',
-  description: 'Belize is a small country on the Caribbean coast of Central America known for its barrier reef, Mayan ruins, and diverse ecosystems. It is the only English-speaking country in Central America and features excellent diving and wildlife.'
+  topAttraction: 'Belize Barrier Reef',
+  neighboringCountries: ['Mexico', 'Guatemala'],
+  description: 'Known for its barrier reef, Mayan ruins, and diverse wildlife.'
 };

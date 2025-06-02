@@ -10,7 +10,8 @@ export const burundi = {
   flag: '🇧🇮',
   government: 'Presidential republic',
   timezone: 'CAT (UTC+2)',
-  gdp: 3730000000,
-  nationalDish: 'Ubugali',
-  description: 'A small landlocked East African country known for its mountainous terrain, traditional drumming, and coffee production.'
+  gdp: 3000000000,
+  nationalDish: 'Ugali',
+  topAttraction: 'Rusizi National Park',
+  description: 'A small landlocked country in the Great Lakes region, known for its hilly landscape.'
 };

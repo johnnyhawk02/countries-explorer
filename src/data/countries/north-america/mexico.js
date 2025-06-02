@@ -13,5 +13,6 @@ export const mexico = {
   gdp: 1293000000000,
   nationalDish: 'Tacos',
   topAttraction: 'Chichen Itza',
+  neighboringCountries: ['United States', 'Guatemala', 'Belize'],
   description: 'A country rich in ancient civilizations, vibrant culture, and diverse landscapes from deserts to tropical beaches.'
 };

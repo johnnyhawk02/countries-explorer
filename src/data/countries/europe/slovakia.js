@@ -12,5 +12,6 @@ export const slovakia = {
   timezone: 'UTC+1',
   gdp: 107000000000,
   nationalDish: 'Halušky',
+  neighboringCountries: ['Czech Republic', 'Austria', 'Hungary', 'Ukraine', 'Poland'],
   description: 'Known for its castles, mountains, and folk traditions.'
 };

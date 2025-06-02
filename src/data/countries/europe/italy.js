@@ -13,5 +13,6 @@ export const italy = {
   gdp: 2001000000000,
   nationalDish: 'Pasta e Pizza',
   topAttraction: 'Colosseum',
+  neighboringCountries: ['France', 'Switzerland', 'Austria', 'Slovenia', 'San Marino', 'Vatican City'],
   description: 'Boot-shaped peninsula renowned for its art, architecture, cuisine, and historic cities like Rome, Florence, and Venice.'
 };

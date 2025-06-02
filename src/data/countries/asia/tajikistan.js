@@ -12,5 +12,6 @@ export const tajikistan = {
   timezone: 'UTC+5',
   gdp: 8800000000,
   nationalDish: 'Qurutob',
+  neighboringCountries: ['Uzbekistan', 'Kyrgyzstan', 'China', 'Afghanistan'],
   description: 'A mountainous Central Asian country known for its Persian cultural heritage.'
 };

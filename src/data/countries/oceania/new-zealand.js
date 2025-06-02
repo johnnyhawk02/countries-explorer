@@ -12,5 +12,6 @@ export const newZealand = {
   timezone: 'UTC+12 to UTC+13',
   gdp: 249000000000,
   nationalDish: 'Hangi',
-  description: 'Known for its stunning landscapes, Maori culture, and adventure tourism.'
+  topAttraction: 'Milford Sound',
+  description: 'Known for its stunning landscapes, adventure sports, and Maori culture.'
 };

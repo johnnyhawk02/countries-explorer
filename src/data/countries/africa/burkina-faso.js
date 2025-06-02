@@ -10,7 +10,8 @@ export const burkina = {
   flag: '🇧🇫',
   government: 'Semi-presidential republic',
   timezone: 'UTC+0 (GMT)',
-  gdp: 18730000000,
+  gdp: 18000000000,
   nationalDish: 'Riz Gras',
-  description: 'Burkina Faso is a landlocked country in West Africa. It borders Mali, Niger, Benin, Togo, Ghana, and Ivory Coast. The country is known for its cultural diversity, traditional masks, and film industry, hosting the biennial FESPACO film festival.'
+  topAttraction: 'W National Park',
+  description: 'A landlocked country in West Africa known for its rich cultural heritage and traditional crafts.'
 };

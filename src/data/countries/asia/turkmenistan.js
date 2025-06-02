@@ -12,5 +12,6 @@ export const turkmenistan = {
   timezone: 'UTC+5',
   gdp: 45000000000,
   nationalDish: 'Ash',
+  neighboringCountries: ['Kazakhstan', 'Uzbekistan', 'Afghanistan', 'Iran'],
   description: 'Known for its natural gas reserves and ancient Silk Road cities.'
 };

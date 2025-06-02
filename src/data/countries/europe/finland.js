@@ -10,7 +10,9 @@ export const finland = {
   flag: '🇫🇮',
   government: 'Parliamentary Republic',
   timezone: 'UTC+2',
-  gdp: 298000000000,
-  nationalDish: 'Karelian Pasty',
-  description: 'Known for its education system, technology companies like Nokia, and beautiful lakes and forests.'
+  gdp: 269000000000,
+  nationalDish: 'Karjalanpiirakka',
+  topAttraction: 'Northern Lights',
+  neighboringCountries: ['Sweden', 'Norway', 'Russia'],
+  description: 'Known for its saunas, lakes, forests, and the Northern Lights.'
 };

@@ -12,5 +12,6 @@ export const chile = {
   timezone: 'UTC-3 to UTC-6',
   gdp: 317000000000,
   nationalDish: 'Empanadas',
-  description: 'Known for its long Pacific coastline, Andes mountains, and diverse geography from desert to glaciers.'
+  topAttraction: 'Torres del Paine',
+  description: 'A long, narrow country known for its wine, diverse geography, and the Atacama Desert.'
 };

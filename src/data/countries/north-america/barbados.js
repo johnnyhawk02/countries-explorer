@@ -10,7 +10,9 @@ export const barbados = {
   flag: '🇧🇧',
   government: 'Parliamentary republic',
   timezone: 'UTC-4 (AST)',
-  gdp: 5400000000,
-  nationalDish: 'Cou-Cou and Flying Fish',
-  description: 'An island nation in the Lesser Antilles, known for its British colonial heritage, rum production, and beautiful beaches.'
+  gdp: 5000000000,
+  nationalDish: 'Flying Fish',
+  topAttraction: 'Harrison\'s Cave',
+  neighboringCountries: [], // Island nation with no land borders
+  description: 'Known for its rum, beautiful beaches, and friendly Caribbean culture.'
 };

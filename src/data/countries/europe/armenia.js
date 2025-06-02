@@ -12,5 +12,7 @@ export const armenia = {
   timezone: 'UTC+4',
   gdp: 13000000000,
   nationalDish: 'Dolma',
-  description: 'Armenia is a landlocked country in the South Caucasus region. Known for being the first nation to officially adopt Christianity, Mount Ararat, and its rich cultural heritage.'
+  topAttraction: 'Geghard Monastery',
+  neighboringCountries: ['Georgia', 'Azerbaijan', 'Iran', 'Turkey'],
+  description: 'One of the oldest Christian nations, known for its ancient monasteries and Mount Ararat.'
 };

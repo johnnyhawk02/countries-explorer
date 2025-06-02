@@ -10,7 +10,9 @@ export const andorra = {
   flag: '🇦🇩',
   government: 'Parliamentary co-principality',
   timezone: 'CET (UTC+1)',
-  gdp: 3200000000,
+  gdp: 3000000000,
   nationalDish: 'Escudella',
-  description: 'Andorra is a small landlocked microstate in the Pyrenees mountains between France and Spain. Known for its duty-free shopping, ski resorts, and unique political system with two co-princes (the President of France and the Bishop of Urgell). The country has no military and has never been in a war. Andorra is famous for its mountainous terrain, medieval architecture, and as a popular destination for winter sports and tourism.'
+  topAttraction: 'Grandvalira Ski Resort',
+  neighboringCountries: ['France', 'Spain'],
+  description: 'A tiny principality in the Pyrenees known for duty-free shopping and skiing. Andorra is famous for its mountainous terrain, medieval architecture, and as a popular destination for winter sports and tourism.'
 };

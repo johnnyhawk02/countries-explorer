@@ -12,5 +12,6 @@ export const laos = {
   timezone: 'UTC+7 (ICT)',
   gdp: 19270000000,
   nationalDish: 'Larb',
+  neighboringCountries: ['China', 'Myanmar', 'Thailand', 'Cambodia', 'Vietnam'],
   description: 'A landlocked Southeast Asian country known for its mountainous terrain, French colonial architecture, and Buddhist monasteries.'
 };

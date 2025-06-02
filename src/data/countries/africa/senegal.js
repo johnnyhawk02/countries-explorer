@@ -10,7 +10,8 @@ export const senegal = {
   flag: '🇸🇳',
   government: 'Republic',
   timezone: 'UTC+0',
-  gdp: 25840000000,
-  nationalDish: 'Ceebu Jën',
-  description: 'A West African country known for its French colonial heritage, vibrant culture, Dakar Rally, and the pink Lake Retba.'
+  gdp: 28000000000,
+  nationalDish: 'Domoda',
+  topAttraction: 'Niokolo-Koba National Park',
+  description: 'Known for its music, particularly the kora, and UNESCO World Heritage sites.'
 };

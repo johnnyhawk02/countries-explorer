@@ -10,7 +10,9 @@ export const poland = {
   flag: '🇵🇱',
   government: 'Republic',
   timezone: 'UTC+1',
-  gdp: 679000000000,
+  gdp: 544000000000,
   nationalDish: 'Pierogi',
-  description: 'Known for its rich history, medieval architecture, and contributions to science and culture.'
+  topAttraction: 'Wawel Castle',
+  neighboringCountries: ['Germany', 'Czech Republic', 'Slovakia', 'Ukraine', 'Belarus', 'Lithuania', 'Russia'],
+  description: 'Known for its medieval architecture, vibrant culture, and rich history.'
 };

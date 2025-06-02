@@ -10,7 +10,9 @@ export const denmark = {
   flag: '🇩🇰',
   government: 'Constitutional Monarchy',
   timezone: 'UTC+1',
-  gdp: 395000000000,
+  gdp: 348000000000,
   nationalDish: 'Smørrebrød',
-  description: 'Known for its design, happiness index, and being the birthplace of LEGO.'
+  topAttraction: 'Tivoli Gardens',
+  neighboringCountries: ['Germany'],
+  description: 'Known for its Viking heritage, fairy tales, and hygge lifestyle.'
 };

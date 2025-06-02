@@ -12,5 +12,6 @@ export const colombia = {
   timezone: 'UTC-5',
   gdp: 271000000000,
   nationalDish: 'Arepas',
+  neighboringCountries: ['Panama', 'Venezuela', 'Brazil', 'Peru', 'Ecuador'],
   description: 'Known for its oil reserves, diverse landscapes from Caribbean coast to Andes mountains, and cultural heritage.'
 };

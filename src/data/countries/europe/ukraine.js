@@ -12,5 +12,6 @@ export const ukraine = {
   timezone: 'UTC+2',
   gdp: 200000000000,
   nationalDish: 'Borscht',
+  neighboringCountries: ['Belarus', 'Russia', 'Poland', 'Slovakia', 'Hungary', 'Romania', 'Moldova'],
   description: 'The largest country in Europe, known for its rich history and cultural contributions.'
 };

@@ -10,7 +10,8 @@ export const botswana = {
   flag: '🇧🇼',
   government: 'Parliamentary Republic',
   timezone: 'UTC+2',
-  gdp: 20350000000,
+  gdp: 19000000000,
   nationalDish: 'Seswaa',
-  description: 'A landlocked southern African country known for the Kalahari Desert, Okavango Delta, and diamond mining.'
+  topAttraction: 'Okavango Delta',
+  description: 'Known for its pristine wilderness, including the Okavango Delta and abundant wildlife.'
 };

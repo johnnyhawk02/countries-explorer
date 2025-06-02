@@ -132,13 +132,12 @@ function App() {
             Built with React, Vite, and Tailwind CSS
           </p>
         </div>
-      </footer>
-
-      {/* Country Detail Modal */}
-      <CountryDetailModal 
+      </footer>      {/* Country Detail Modal */}
+      <CountryDetailModal
         country={selectedCountry}
         isOpen={isModalOpen}
         onClose={handleCloseModal}
+        onCountrySelect={handleCountryClick}
       />
     </div>
   )

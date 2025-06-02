@@ -10,7 +10,8 @@ export const ethiopia = {
   flag: '🇪🇹',
   government: 'Federal Republic',
   timezone: 'UTC+3',
-  gdp: 156800000000,
-  nationalDish: 'Injera with Doro Wat',
-  description: 'One of the oldest independent nations in Africa, known for being the birthplace of coffee and its ancient Orthodox Christian heritage.'
+  gdp: 48000000000,
+  nationalDish: 'Injera',
+  topAttraction: 'Lalibela Churches',
+  description: 'One of the oldest countries in the world, known for its ancient churches and coffee culture.'
 };

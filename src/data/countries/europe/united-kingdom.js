@@ -13,5 +13,6 @@ export const unitedKingdom = {
   gdp: 2938000000000,
   nationalDish: 'Fish and Chips',
   topAttraction: 'Big Ben',
+  neighboringCountries: ['Ireland'], // Connected via land border with Northern Ireland
   description: 'A historic island nation known for its influence on global culture, language, and institutions.'
 };

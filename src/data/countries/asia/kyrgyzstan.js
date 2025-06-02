@@ -12,5 +12,6 @@ export const kyrgyzstan = {
   timezone: 'KGT (UTC+6)',
   gdp: 8200000000,
   nationalDish: 'Beshbarmak',
+  neighboringCountries: ['Kazakhstan', 'Uzbekistan', 'Tajikistan', 'China'],
   description: 'A mountainous Central Asian country known for its nomadic heritage.'
 };

@@ -12,5 +12,6 @@ export const uzbekistan = {
   timezone: 'UTC+5',
   gdp: 40000000000,
   nationalDish: 'Osh',
+  neighboringCountries: ['Kazakhstan', 'Kyrgyzstan', 'Tajikistan', 'Afghanistan', 'Turkmenistan'],
   description: 'Uzbekistan is a Central Asian country known for its rich history along the Silk Road, featuring ancient cities like Samarkand and Bukhara. It is famous for its Islamic architecture, traditional crafts, and cotton production.'
 };

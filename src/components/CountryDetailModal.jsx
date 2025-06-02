@@ -1,8 +1,16 @@
 import React from 'react';
 import { formatPopulation, formatGDP } from '../data/helpers';
+import { countries } from '../data/countries/index';
 
-const CountryDetailModal = ({ country, isOpen, onClose }) => {
+const CountryDetailModal = ({ country, isOpen, onClose, onCountrySelect }) => {
   if (!isOpen || !country) return null;
+
+  const handleNeighborClick = (neighborName) => {
+    const neighborCountry = countries.find(c => c.name === neighborName);
+    if (neighborCountry && onCountrySelect) {
+      onCountrySelect(neighborCountry);
+    }
+  };
 
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50">
@@ -105,6 +113,23 @@ const CountryDetailModal = ({ country, isOpen, onClose }) => {
                   <div className="flex justify-between">
                     <span className="text-gray-600">Top Attraction:</span>
                     <span className="font-medium">{country.topAttraction}</span>
+                  </div>
+                )}
+
+                {country.neighboringCountries && country.neighboringCountries.length > 0 && (
+                  <div>
+                    <span className="text-gray-600">Neighboring Countries:</span>
+                    <div className="mt-2 flex flex-wrap gap-2">
+                      {country.neighboringCountries.map((neighbor, index) => (
+                        <button
+                          key={index}
+                          onClick={() => handleNeighborClick(neighbor)}
+                          className="inline-block bg-blue-100 hover:bg-blue-200 text-blue-800 text-sm px-3 py-1 rounded-full transition-colors cursor-pointer border border-blue-200 hover:border-blue-300"
+                        >
+                          {neighbor}
+                        </button>
+                      ))}
+                    </div>
                   </div>
                 )}
                 

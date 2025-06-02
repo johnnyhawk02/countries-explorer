@@ -12,5 +12,6 @@ export const northMacedonia = {
   timezone: 'UTC+1 (CET)',
   gdp: 13000000000,
   nationalDish: 'Tavče Gravče',
+  neighboringCountries: ['Serbia', 'Bulgaria', 'Greece', 'Albania'],
   description: 'Known for its rich history and cultural heritage in the heart of the Balkans.'
 };

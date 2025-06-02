@@ -10,7 +10,9 @@ export const cambodia = {
   flag: '🇰🇭',
   government: 'Constitutional monarchy',
   timezone: 'UTC+7 (ICT)',
-  gdp: 27089000000,
+  gdp: 25000000000,
   nationalDish: 'Amok',
-  description: 'Cambodia is a country in Southeast Asia. It is home to the famous Angkor Wat temple complex, a UNESCO World Heritage site and one of the largest religious monuments in the world. Cambodia has a rich Khmer cultural heritage.'
+  topAttraction: 'Angkor Wat',
+  neighboringCountries: ['Thailand', 'Laos', 'Vietnam'],
+  description: 'Home to the magnificent Angkor Wat temple complex and rich Khmer heritage.'
 };

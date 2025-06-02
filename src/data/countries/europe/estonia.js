@@ -10,7 +10,9 @@ export const estonia = {
   flag: '🇪🇪',
   government: 'Parliamentary republic',
   timezone: 'UTC+2 (EET)',
-  gdp: 38000000000,
+  gdp: 31000000000,
   nationalDish: 'Kama',
-  description: 'Known for its digital innovation, medieval old town in Tallinn, and being one of the most digitally advanced countries.'
+  topAttraction: 'Tallinn Old Town',
+  neighboringCountries: ['Latvia', 'Russia'],
+  description: 'Known for its digital innovation, medieval old town, and Baltic Sea coastline.'
 };

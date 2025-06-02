@@ -10,7 +10,9 @@ export const costaRica = {
   flag: '🇨🇷',
   government: 'Republic',
   timezone: 'UTC-6',
-  gdp: 68380000000,
+  gdp: 25000000000,
   nationalDish: 'Gallo Pinto',
-  description: 'A Central American country known for its biodiversity, national parks, beaches, and commitment to environmental conservation.'
+  topAttraction: 'Manuel Antonio National Park',
+  neighboringCountries: ['Nicaragua', 'Panama'],
+  description: 'Known for its biodiversity, eco-tourism, and peaceful democracy.'
 };

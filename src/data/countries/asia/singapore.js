@@ -10,7 +10,8 @@ export const singapore = {
   flag: '🇸🇬',
   government: 'Parliamentary Republic',
   timezone: 'UTC+8',
-  gdp: 372000000000,
-  nationalDish: 'Chili Crab',
-  description: 'A modern city-state known for its efficiency, multicultural society, and strategic location.'
+  gdp: 398000000000,
+  nationalDish: 'Hainanese Chicken Rice',
+  topAttraction: 'Marina Bay Sands',
+  description: 'A modern city-state known for its efficiency, multiculturalism, and strategic location.'
 };

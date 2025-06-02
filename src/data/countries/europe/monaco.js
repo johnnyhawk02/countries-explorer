@@ -12,5 +12,6 @@ export const monaco = {
   timezone: 'CET (UTC+1)',
   gdp: 7000000000,
   nationalDish: 'Barbajuans',
+  neighboringCountries: ['France'],
   description: 'A tiny principality on the French Riviera, famous for its casinos and Formula 1 Grand Prix.'
 };

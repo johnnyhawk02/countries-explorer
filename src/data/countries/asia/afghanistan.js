@@ -12,5 +12,7 @@ export const afghanistan = {
   timezone: 'UTC+4:30 (AFT)',
   gdp: 20000000000,
   nationalDish: 'Kabuli Pulao',
-  description: 'A landlocked country with a rich history at the crossroads of Central and South Asia.'
+  topAttraction: 'Band-e-Amir Lakes',
+  neighboringCountries: ['Iran', 'Pakistan', 'China', 'Tajikistan', 'Uzbekistan', 'Turkmenistan'],
+  description: 'A landlocked country with a rich history along the ancient Silk Road.'
 };

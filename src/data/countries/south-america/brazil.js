@@ -13,5 +13,6 @@ export const brazil = {
   gdp: 1449000000000,
   nationalDish: 'Feijoada',
   topAttraction: 'Christ the Redeemer',
+  neighboringCountries: ['Argentina', 'Bolivia', 'Colombia', 'French Guiana', 'Guyana', 'Paraguay', 'Peru', 'Suriname', 'Uruguay', 'Venezuela'],
   description: 'The largest country in South America, known for its Amazon rainforest, carnival celebrations, and diverse culture.'
 };

@@ -10,7 +10,8 @@ export const chad = {
   flag: '🇹🇩',
   government: 'Presidential republic',
   timezone: 'UTC+1 (WAT)',
-  gdp: 12280000000,
-  nationalDish: 'Boule',
-  description: 'A landlocked Central African country known for Lake Chad, diverse ethnic groups, and challenging economic conditions.'
+  gdp: 14000000000,
+  nationalDish: 'Sadza',
+  topAttraction: 'Tibesti Mountains',
+  description: 'A landlocked country known for Lake Chad and the Sahara Desert.'
 };

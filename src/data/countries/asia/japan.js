@@ -13,5 +13,6 @@ export const japan = {
   gdp: 4231000000000,
   nationalDish: 'Sushi',
   topAttraction: 'Mount Fuji',
+  neighboringCountries: [], // Island nation with no land borders
   description: 'An island nation known for its unique blend of ancient traditions and cutting-edge technology, anime, and distinctive culture.'
 };

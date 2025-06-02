@@ -12,5 +12,6 @@ export const honduras = {
   timezone: 'UTC-6',
   gdp: 28490000000,
   nationalDish: 'Plato Típico',
+  neighboringCountries: ['Guatemala', 'El Salvador', 'Nicaragua'],
   description: 'A Central American country known for its Maya ruins at Copán, Caribbean coastline, and coffee production.'
 };

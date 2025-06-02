@@ -12,5 +12,6 @@ export const pakistan = {
   timezone: 'UTC+5',
   gdp: 347000000000,
   nationalDish: 'Karahi',
+  neighboringCountries: ['India', 'China', 'Afghanistan', 'Iran'],
   description: 'Known for its rich history, diverse culture, and being home to ancient civilizations.'
 };

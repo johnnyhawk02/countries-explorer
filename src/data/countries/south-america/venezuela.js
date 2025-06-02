@@ -12,5 +12,6 @@ export const venezuela = {
   timezone: 'UTC-4',
   gdp: 250000000000,
   nationalDish: 'Arepa',
+  neighboringCountries: ['Colombia', 'Brazil', 'Guyana'],
   description: 'Home to the world\'s highest waterfall, Angel Falls, and Lake Maracaibo, with diverse landscapes from the Andes mountains to Caribbean coastline.'
 };

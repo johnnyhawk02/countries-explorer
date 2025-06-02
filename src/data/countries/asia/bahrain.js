@@ -10,7 +10,8 @@ export const bahrain = {
   flag: '🇧🇭',
   government: 'Constitutional monarchy',
   timezone: 'AST (UTC+3)',
-  gdp: 38000000000,
-  nationalDish: 'Muhammar',
-  description: 'An island nation in the Gulf known for its pearling heritage and modern financial sector.'
+  gdp: 39000000000,
+  nationalDish: 'Machboos',
+  topAttraction: 'Bahrain Fort',
+  description: 'An island nation known for its pearl diving heritage and modern financial sector.'
 };

@@ -10,7 +10,9 @@ export const croatia = {
   flag: '🇭🇷',
   government: 'Parliamentary Republic',
   timezone: 'UTC+1',
-  gdp: 69000000000,
-  nationalDish: 'Ćevapi',
-  description: 'Known for its medieval history, beautiful Adriatic coastline, and cultural heritage.'
+  gdp: 58000000000,
+  nationalDish: 'Peka',
+  topAttraction: 'Plitvice Lakes',
+  neighboringCountries: ['Slovenia', 'Hungary', 'Serbia', 'Bosnia and Herzegovina', 'Montenegro'],
+  description: 'Known for its stunning Adriatic coastline, ancient Roman ruins, and crystal-clear lakes.'
 };

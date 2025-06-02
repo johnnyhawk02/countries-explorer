@@ -12,5 +12,6 @@ export const mongolia = {
   timezone: 'UTC+7 to UTC+8',
   gdp: 14000000000,
   nationalDish: 'Buuz',
+  neighboringCountries: ['Russia', 'China'],
   description: 'A landlocked country known for its nomadic culture and vast steppes.'
 };

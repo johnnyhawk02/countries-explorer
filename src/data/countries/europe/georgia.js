@@ -12,5 +12,7 @@ export const georgia = {
   timezone: 'UTC+4',
   gdp: 16000000000,
   nationalDish: 'Khachapuri',
+  topAttraction: 'Svaneti Towers',
+  neighboringCountries: ['Russia', 'Azerbaijan', 'Armenia', 'Turkey'],
   description: 'Georgia is a transcontinental country at the intersection of Europe and Asia. Known for its ancient wine-making tradition, Caucasus Mountains, and unique alphabet and culture.'
 };

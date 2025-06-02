@@ -10,7 +10,8 @@ export const antiguaAndBarbuda = {
   flag: '🇦🇬',
   government: 'Parliamentary constitutional monarchy',
   timezone: 'AST (UTC-4)',
-  gdp: 1.9, // billion USD (2023 est.)
-  nationalDish: 'Fungee and Pepperpot',
-  description: 'Antigua and Barbuda is a twin-island nation in the Caribbean, famous for its 365 beaches - one for each day of the year. The country is known for its sailing culture, hosting the prestigious Antigua Sailing Week. Tourism is the main economic driver, with visitors attracted to the pristine beaches, coral reefs, and historic sites including Nelson\'s Dockyard. The islands have a rich cricket tradition and beautiful colonial architecture.'
+  gdp: 2000000000,
+  nationalDish: 'Pepperpot',
+  topAttraction: 'Nelson\'s Dockyard',
+  description: 'Twin islands known for their beautiful beaches, sailing culture, and colonial history.'
 };

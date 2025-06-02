@@ -10,7 +10,8 @@ export const philippines = {
   flag: '🇵🇭',
   government: 'Republic',
   timezone: 'UTC+8',
-  gdp: 347000000000,
+  gdp: 420000000000,
   nationalDish: 'Adobo',
-  description: 'An archipelago nation with thousands of islands, known for its tropical beaches and diverse cultural influences.'
+  topAttraction: 'Boracay Island',
+  description: 'An archipelago of over 7,000 islands known for beautiful beaches and warm hospitality.'
 };

@@ -12,5 +12,6 @@ export const netherlands = {
   timezone: 'UTC+1',
   gdp: 543000000000,
   nationalDish: 'Stroopwafel',
+  neighboringCountries: ['Germany', 'Belgium'],
   description: 'Known for its flat landscape, tulips, windmills, and progressive social policies.'
 };

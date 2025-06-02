@@ -12,5 +12,6 @@ export const sanMarino = {
   timezone: 'UTC+1',
   gdp: 1900000000,
   nationalDish: 'Torta Tre Monti',
+  neighboringCountries: ['Italy'],
   description: 'One of the world\'s smallest countries, completely surrounded by Italy.'
 };

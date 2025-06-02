@@ -12,5 +12,6 @@ export const kazakhstan = {
   timezone: 'UTC+6',
   gdp: 219000000000,
   nationalDish: 'Beshbarmak',
+  neighboringCountries: ['Russia', 'China', 'Kyrgyzstan', 'Uzbekistan', 'Turkmenistan'],
   description: 'The world\'s largest landlocked country, known for its oil reserves and vast steppes.'
 };

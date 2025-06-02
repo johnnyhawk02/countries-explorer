@@ -10,7 +10,9 @@ export const azerbaijan = {
   flag: '🇦🇿',
   government: 'Presidential republic',
   timezone: 'UTC+4',
-  gdp: 54000000000,
+  gdp: 47000000000,
   nationalDish: 'Plov',
-  description: 'Located at the crossroads of Europe and Asia, known for its oil wealth and cultural heritage.'
+  topAttraction: 'Flame Towers',
+  neighboringCountries: ['Russia', 'Georgia', 'Armenia', 'Iran'],
+  description: 'Known as the "Land of Fire" for its natural gas reserves and ancient Zoroastrian heritage.'
 };

@@ -10,7 +10,9 @@ export const vietnam = {
   flag: '🇻🇳',
   government: 'Socialist Republic',
   timezone: 'UTC+7',
-  gdp: 348000000000,
+  gdp: 250000000000,
   nationalDish: 'Pho',
-  description: 'Known for its stunning landscapes, rich history, and rapidly growing economy.'
+  topAttraction: 'Ha Long Bay',
+  neighboringCountries: ['China', 'Laos', 'Cambodia'],
+  description: 'Known for its stunning natural beauty, rich history, and delicious cuisine.'
 };

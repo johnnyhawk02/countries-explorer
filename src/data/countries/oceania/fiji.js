@@ -10,7 +10,8 @@ export const fiji = {
   flag: '🇫🇯',
   government: 'Parliamentary Republic',
   timezone: 'UTC+12',
-  gdp: 5540000000,
+  gdp: 6000000000,
   nationalDish: 'Kokoda',
-  description: 'A Pacific island nation known for its coral reefs, pristine beaches, adventure tourism, and friendly Bula culture.'
+  topAttraction: 'Coral Coast',
+  description: 'Known for its pristine beaches, coral reefs, and warm island hospitality.'
 };

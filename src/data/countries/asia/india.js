@@ -13,5 +13,6 @@ export const india = {
   gdp: 2875000000000,
   nationalDish: 'Biryani',
   topAttraction: 'Taj Mahal',
+  neighboringCountries: ['Pakistan', 'China', 'Nepal', 'Bhutan', 'Bangladesh', 'Myanmar'],
   description: 'The world\'s largest democracy with incredible diversity in languages, cultures, religions, and landscapes.'
 };

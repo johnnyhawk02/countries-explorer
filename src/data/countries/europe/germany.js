@@ -10,7 +10,9 @@ export const germany = {
   flag: '🇩🇪',
   government: 'Federal Republic',
   timezone: 'UTC+1',
-  gdp: 4260000000000,
+  gdp: 2107000000000,
   nationalDish: 'Sauerbraten',
-  description: 'Europe\'s largest economy, known for its engineering, automotive industry, and cultural contributions.'
+  topAttraction: 'Neuschwanstein Castle',
+  neighboringCountries: ['France', 'Austria', 'Belgium', 'Czech Republic', 'Denmark', 'Luxembourg', 'Netherlands', 'Poland', 'Switzerland'],
+  description: 'Known for its engineering, beer, and historic cities like Berlin and Munich.'
 };

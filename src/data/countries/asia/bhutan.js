@@ -10,7 +10,9 @@ export const bhutan = {
   flag: '🇧🇹',
   government: 'Constitutional monarchy',
   timezone: 'BTT (UTC+6)',
-  gdp: 8000000000,
+  gdp: 13000000000,
   nationalDish: 'Ema Datshi',
-  description: 'Known as the "Land of the Thunder Dragon," famous for measuring Gross National Happiness.'
+  topAttraction: 'Tiger\'s Nest Monastery',
+  neighboringCountries: ['China', 'India'],
+  description: 'The Last Shangri-la, known for measuring Gross National Happiness and pristine Himalayan beauty.'
 };

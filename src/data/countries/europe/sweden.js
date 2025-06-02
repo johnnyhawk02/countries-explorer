@@ -12,5 +12,6 @@ export const sweden = {
   timezone: 'UTC+1',
   gdp: 541000000000,
   nationalDish: 'Meatballs',
+  neighboringCountries: ['Norway', 'Finland'],
   description: 'Known for its welfare system, innovation, ABBA, and beautiful archipelago.'
 };

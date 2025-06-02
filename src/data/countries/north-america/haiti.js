@@ -12,5 +12,6 @@ export const haiti = {
   timezone: 'UTC-5',
   gdp: 19800000000,
   nationalDish: 'Griot',
+  neighboringCountries: ['Dominican Republic'],
   description: 'Shares the island of Hispaniola with the Dominican Republic, known for its Creole culture, art, and beautiful beaches.'
 };

@@ -12,5 +12,6 @@ export const switzerland = {
   timezone: 'UTC+1',
   gdp: 531000000000,
   nationalDish: 'Fondue',
+  neighboringCountries: ['France', 'Germany', 'Austria', 'Liechtenstein', 'Italy'],
   description: 'Known for its Alps, banking, watches, chocolate, and neutrality in international affairs.'
 };

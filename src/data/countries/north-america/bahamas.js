@@ -10,7 +10,9 @@ export const bahamas = {
   flag: '🇧🇸',
   government: 'Parliamentary democracy under constitutional monarchy',
   timezone: 'UTC-5 (EST)',
-  gdp: 14840000000,
+  gdp: 13000000000,
   nationalDish: 'Conch Fritters',
-  description: 'An archipelago of 700 islands in the Atlantic Ocean, known for its crystal-clear waters, beaches, and offshore banking.'
+  topAttraction: 'Atlantis Paradise Island',
+  neighboringCountries: [], // Island nation with no land borders
+  description: 'An archipelago known for pristine beaches, crystal-clear waters, and luxury resorts.'
 };

@@ -10,7 +10,8 @@ export const zimbabwe = {
   flag: '🇿🇼',
   government: 'Presidential Republic',
   timezone: 'UTC+2',
-  gdp: 34270000000,
+  gdp: 75000000000,
   nationalDish: 'Sadza',
-  description: 'A landlocked southern African country known for Victoria Falls, Great Zimbabwe ruins, and diverse wildlife.'
+  topAttraction: 'Victoria Falls',
+  description: 'Home to the magnificent Victoria Falls and rich wildlife, with a complex recent history.'
 };
